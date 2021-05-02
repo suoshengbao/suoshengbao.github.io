@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are a small, dynamic group at the [XXX](http://XXX). Our aim is to use computational and theoretical approaches combined with multi-omics high-throughput sequencing data to quantitatively understand gene regulation, cell differentiation and spatial cell-cell interaction in single cells, with focus on questions in developmental, stem cell biology and cancer immunology. 
+We are a small, dynamic group at the [XXX](). Our aim is to use computational and theoretical approaches combined with multi-omics high-throughput sequencing data to quantitatively understand gene regulation, cell differentiation and spatial cell-cell interaction in single cells, with focus on questions in developmental, stem cell biology and cancer immunology. 
  
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
@@ -49,12 +49,12 @@ We are a small, dynamic group at the [XXX](http://XXX). Our aim is to use comput
 
 Advances in single-cell technologies, especially for single-cell RNA sequencing (scRNA-seq), are providing exciting opportunities for describing the characteristics and heterogeneity of individual cells and benefiting the study of cell identity, fate and function with unprecedented resolution (Stuart and Satija, 2019). Recent studies have also shown that identical cell types may have tissue-specific expression patterns, indicating that tissue environment plays an important role in mediating cell states. The loss of spatial information during the process of tissue dissociation and cell isolation will limit our understanding of cellular interactions and organization in the microenvironment. Recently, a number of methods providing spatially resolved transcriptomic profiling have been introduced and are complementary to scRNA-seq (Asp et al., 2020). Some studies, for example, from development, stem cell, cancer and immunology fields, clearly highlight the power of scRNA-seq and spatial transcriptomes for parsing the spatial context in high resolution (Baccin et al., 2020; Moncada et al., 2020). However, due to technical limitations and complexity of data structure, there are some unique computational challenges need to be addressed for advancing the field of single-cell omics (see [Research](research)).
 
-We are located at XX University. We exchange ideas and work with our neighbors from [XXX](http://XXX), as well as with the colleagues from our [XXX](https://XXX).
+We are located at XX University. We exchange ideas and work with our neighbors from [XXX](), as well as with the colleagues from our [XXX]().
 
  **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
  
  
-We are grateful for funding from XX University, [XX](www.XXX.nl) ([XXX](http://XXX) and the [XXX program](https://XXX)), and from an [XXX grant](https://XXX).
+We are grateful for funding from XX University, [XX]() ([XXX]() and the [XXX program]()), and from an [XXX grant]().
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
