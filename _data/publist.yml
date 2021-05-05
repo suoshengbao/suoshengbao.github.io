@@ -13,7 +13,7 @@
   image: dummy.png
   description: ""
   authors:
-    Adrienne M. Luoma^; Shengbao Suo^; Hannah L. Williams; Tatyana Sharova; Keri Sullivan; Michael Manos; Peter Bowling; F. Stephen Hodi; Osama Rahma; Ryan J. Sullivan; Genevieve M. Boland; Jonathan A. Nowak; Stephanie K. Dougan; Michael Dougan#; Guo-Cheng Yuan; Kai W. Wucherpfennig#
+    Adrienne M. Luoma^; <b>Shengbao Suo</b>^; Hannah L. Williams; Tatyana Sharova; Keri Sullivan; Michael Manos; Peter Bowling; F. Stephen Hodi; Osama Rahma; Ryan J. Sullivan; Genevieve M. Boland; Jonathan A. Nowak; Stephanie K. Dougan; Michael Dougan#; Guo-Cheng Yuan; Kai W. Wucherpfennig#
   link:
     url: https://doi.org/10.1016/j.cell.2020.06.001
     display: Cell, 2020, 182(3):655-671
@@ -23,7 +23,7 @@
   image: dummy.png
   description: ""
   authors:
-    Guangdun Peng^#; Shengbao Suo^; Guizhong Cui^; Fang Yu^; Ran Wang; Jun Chen; Shirui Chen; Zhiwen Liu; Guoyu Chen; Yun Qian; Patrick P.L.Tam; Jing-Dong J.Han#; Naihe Jing#
+    Guangdun Peng^#; <b>Shengbao Suo</b>^; Guizhong Cui^; Fang Yu^; Ran Wang; Jun Chen; Shirui Chen; Zhiwen Liu; Guoyu Chen; Yun Qian; Patrick P.L.Tam; Jing-Dong J.Han#; Naihe Jing#
   link:
     url: https://www.nature.com/articles/s41586-019-1469-8
     display: Nature, 2019, 572(7770):528-532
@@ -38,3 +38,64 @@
     url: https://doi.org/10.1016/j.celrep.2018.10.045
     display: Cell Reports, 2018, 6(25):1436-1445
   highlight: 0
+
+- title: Spatial transcriptomic analysis of cryosectioned tissue samples with Geo-seq
+  image: dummy.png
+  description: ""
+  authors:
+    Jun Chen^; <b>Shengbao Suo</b>^; Patrick PL Tam; Jing-Dong J Han#; Guangdun Peng#; Naihe Jing#
+  link:
+    url: https://www.nature.com/articles/nprot.2017.003
+    display: Nature Protocols, 2017, 12(3):566-580
+  highlight: 0
+
+- title: Spatial transcriptome for the molecular annotation of lineage fates and cell identity in mid-gastrula mouse embryo
+  image: dummy.png
+  description: ""
+  authors:
+    Guangdun Peng^; <b>Shengbao Suo</b>^; Jun Chen^; Weiyang Chen; Chang Liu; Fang Yu; Ran Wang; Shirui Chen; Na Sun; Guizhong Cui; Lu Song; Patrick P.L. Tam; Jing-Dong J.Han#; Naihe Jing#
+  link:
+    url: https://doi.org/10.1016/j.devcel.2016.02.020
+    display: Developmental Cell, 2016, 36(6):681-697
+  highlight: 0
+
+- title: Mouse gastrulation:Attributes of transcription factor regulatory network for epiblast patterning
+  image: dummy.png
+  description: ""
+  authors:
+    Guizhong Cui^; <b>Shengbao Suo</b>^; Ran Wang; Yun Qian; Jing-Dong J. Han#; Guangdun Peng#; Patrick P. L. Tam#; Naihe Jing#
+  link:
+    url: https://doi.org/10.1111/dgd.12568
+    display: Development, Growth & Differentiation, 2018, 60(8):463-472
+  highlight: 0
+
+- title: PSEA:Kinase-specific prediction and analysis of human phosphorylation substrates
+  image: dummy.png
+  description: ""
+  authors:
+    <b>Sheng-Bao Suo</b>; Jian-Ding Qiu#; Shao-Ping Shi; Xiang Chen; Ru-Ping Liang
+  link:
+    url: https://www.nature.com/articles/srep04524
+    display: Scientific Reports, 2014, 4(4):4524
+  highlight: 0
+
+- title: Proteome-wide analysis of amino acid variations that influences protein lysine acetylation
+  image: dummy.png
+  description: ""
+  authors:
+    <b>Sheng-Bao Suo</b>; Jian-Ding Qiu#; Shao-Ping Shi; Xiang Chen; Shu-Yun Huang; Ru-Ping Liang
+  link:
+    url: https://pubs.acs.org/doi/10.1021/pr301007j
+    display: Journal of Proteome Research, 2013, 12 (2):949-958
+  highlight: 0
+
+- title: Position-Specific Analysis and Prediction for Protein Lysine Acetylation Based on Multiple Features
+  image: dummy.png
+  description: ""
+  authors:
+    <b>Sheng-Bao Suo</b>; Jian-Ding Qiu#; Shao-Ping Shi; Xing-Yu Sun; Shu-Yun Huang; Xiang Chen; Ru-Ping Liang
+  link:
+    url: https://doi.org/10.1371/journal.pone.0049108
+    display: PLoS ONE, 2012, 7( 11):e49108
+  highlight: 0
+
