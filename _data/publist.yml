@@ -99,3 +99,154 @@
     display: PLoS ONE, 2012, 7( 11):e49108
   highlight: 0
 
+- title: Integrated spatial genomics reveals global architecture of single nuclei
+  image: dummy.png
+  description: ""
+  authors:
+    Yodai Takei; Jina Yun; Shiwei Zheng; Noah Ollikainen; Nico Pierson; Jonathan White; Sheel Shah; Julian Thomassie; <b>Shengbao Suo</b>; Chee-Huat Linus Eng; Mitchell Guttman; Guo-Cheng Yuan; Long Cai#
+  link:
+    url: https://www.nature.com/articles/s41586-020-03126-2
+    display: Nature, 2021, 590(7845):344-350
+  highlight: 0
+
+- title: Transcriptional network dynamics during the progression of pluripotency revealed by integrative statistical learning
+  image: dummy.png
+  description: ""
+  authors:
+    Hani Jieun Kim; Pierre Osteil; Sean J Humphrey; Senthilkumar Cinghu; Andrew J Oldfield; Ellis Patrick; Emilie E Wilkie; Guangdun Peng; <b>Shengbao Suo</b>; Raja Jothi; Patrick P L Tam; Pengyi Yang#
+  link:
+    url: https://academic.oup.com/nar/article/48/4/1828/5680709
+    display: Nucleic Acids Research, 2019, 48(4):1828-1842
+  highlight: 0
+
+- title: A 3D Atlas of Hematopoietic Stem and Progenitor Cell Expansion by Multi-dimensional RNA-Seq Analysis
+  image: dummy.png
+  description: ""
+  authors:
+    Yuanyuan Xue^; Denghui Liu^; Guizhong Cui; Yanyan Ding; Daosheng Ai; Suwei Gao; Yifan Zhang; <b>Shengbao Suo</b>; Xiaohan Wang; Peng Lv; Chunyu Zhou; Yizhou Li; Xingwei Chen; Guangdun Peng; Naihe Jing; Jing-Dong J.Han#; Feng Liu#
+  link:
+    url: https://doi.org/10.1016/j.celrep.2019.04.030
+    display: Cell Reports, 2019, 27(5):1567-1578
+  highlight: 0
+
+- title: Epithelial endoplasmic reticulum stress orchestrates a protective IgA response
+  image: dummy.png
+  description: ""
+  authors:
+    Joep Grootjans^; Niklas Krupka^; Shuhei Hosomi^; Juan D.Matute; Thomas Hanley; Svetlana Saveljeva; Thomas Gensollen; Jarom Heijmans; Hai Li; Julien P.Limenitakis; Stephanie C.Ganal-Vonarburg; <b>Shengbao Suo</b>; Adrienne M. Luoma; Yosuke Shimodaira; Jinzhi Duan; David Q.Shih; Margaret E.Conner; Jonathan N.Glickman; Gwenny M.Fuhler; Noah W.Palm; Marcel R.de Zoete; C. Janneke van der Woude; Guo-Cheng Yuan; Kai W.Wucherpfennig; Stephan R. Targan; Philip Rosenstiel; Richard A.Flavell; Kathy D.McCoy; Andrew J. Macpherson; Arthur Kaser; Richard S.Blumberg#
+  link:
+    url: https://science.sciencemag.org/content/363/6430/993.full
+    display: Science, 2019, 363(6 430):993-998
+  highlight: 0
+
+- title: Accurate drug repositioning through non- tissue-specific core signatures from cancer transcriptomes
+  image: dummy.png
+  description: ""
+  authors:
+    Chi Xu^; Daosheng Ai^; Dawei Shi; <b>Shengbao Suo</b>; Xingwei Chen; Yizhen Yan; Yaqiang Cao; Na Sun; Weizhong Chen; Joseph McDermott; Shiqiang Zhang; Yingying Zeng; Jing-Dong J. Han#
+  link:
+    url: https://doi.org/10.1016/j.celrep.2018.09.031
+    display: Cell Reports, 2018 , 25(2):523-535
+  highlight: 0
+
+- title: Single-cell transcriptomic analysis of cardiac differentiation from human PSCs reveals HOPX-dependent cardiomyocyte maturation
+  image: dummy.png
+  description: ""
+  authors:
+    Clayton E. Friedman^; Quan Nguyen^; Samuel W. Lukowski^; Abbigail Helfer; Han Sheng Chiu; Jason Miklas; Shiri Levy; <b>Shengbao Suo</b>; Jing-Dong Jackie Han; Pierre Osteil; Guangdun Peng; Naihe Jing; Greg J. Baillie; Anne Senabouth; Angelika N. Christ; Timothy J. Bruxner; Charles E. Murry; Emily S. Wong; Jun Ding; Joseph E. Powell#; Nathan J. Palpant#
+  link:
+    url: https://doi.org/10.1016/j.stem.2018.09.009
+    display: Cell Stem Cell, 2018, 23(4):586- 598
+  highlight: 0
+
+- title: Inference of differentiation time for single cell transcriptomes using cell population reference data
+  image: dummy.png
+  description: ""
+  authors:
+    Na Sun^; Xiaoming Yu^; Fang Li^; Denghui Liu; <b>Shengbao Suo</b>; Weiyang Chen; Shirui Chen; Lu Song; Christopher D. Green; Joseph McDermott; Qin Shen; Naihe Jing; Jing-Dong J. Han#
+  link:
+    url: https://www.nature.com/articles/s41467-017-01860-2
+    display: Nature Communications, 2017, 8:1856-1856
+  highlight: 0
+
+- title: Transcriptome analyses of rhesus monkey preimplantation embryos reveal a reduced capacity for DNA double-strand break repair in primate oocytes and early embryos
+  image: dummy.png
+  description: ""
+  authors:
+    Xinyi Wang^; Denghui Liu^; Dajian He; <b>Shengbao Suo</b>; Xian Xia; Xiechao He; Jing-Dong J. Han#; Ping Zheng#
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/28223401/
+    display: Genome Research, 2017, 27( 4):567-579
+  highlight: 0
+
+- title: Nkx2.5 marks angioblasts that contribute to hemogenic endothelium of the endocardium and dorsal aorta
+  image: dummy.png
+  description: ""
+  authors:
+    Lyad Zamir^; Reena Singh^; Elisha Nathan; Ralph Patrick; Oren Yifa; Yfat Yahalom-Ronen; Alaa A Arraf; Thomas M Schultheiss; <b>Shengbao Suo</b>; Jing- Dong Jackie Han; Guangdun Peng; Naihe Jing; Yuliang Wang; Nathan Palpant; Patrick PL Tam; Richard P Harvey#; Eldad Tzahor#
+  link:
+    url: https://elifesciences.org/articles/20994
+    display: eLife, 2017, 6:e20994
+  highlight: 0
+
+- title: A homology-based pipeline for global prediction of post-translational modification sites
+  image: dummy.png
+  description: ""
+  authors:
+    Xiang Chen; Shao-Ping Shi; Hao-Dong Xu; <b>Sheng-Bao Suo</b>; Jian-Ding Qiu#
+  link:
+    url: https://www.nature.com/articles/srep25801
+    display: Scientific Reports, 2016, 6:25801
+  highlight: 0
+
+- title: Proteomic analysis and prediction of human phosphorylation sites in subcellular level reveal subcellular specificity
+  image: dummy.png
+  description: ""
+  authors:
+    Xiang Chen; Shao-Ping Shi; <b>Sheng-Bao Suo</b>; Hao-Dong Xu; Jian-Ding Qiu#
+  link:
+    url: https://academic.oup.com/bioinformatics/article/31/2/194/2365295
+    display: Bioinformatics, 2015, 31(2):194-200
+  highlight: 0
+
+- title: Systematic analysis and prediction of pupylation sites in prokaryotic proteins
+  image: dummy.png
+  description: ""
+  authors:
+    Xiang Chen; Jian-Ding Qiu#; Shao-Ping Shi; <b>Sheng-Bao Suo</b>; Ru-Ping Liang
+  link:
+    url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0074002
+    display: PLoS ONE, 2013, 8(9):e74002
+  highlight: 0
+
+- title: Incorporating key position and amino acid residue features to identify general and species-specific Ubiquitin conjugation sites
+  image: dummy.png
+  description: ""
+  authors:
+    Xiang Chen; Jian-Ding Qiu#; Shao-Ping Shi; <b>Sheng-Bao Suo</b>; Shu-Yun Huang; Ru-Ping Liang
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/28223401/
+    display: Bioinformatics, 2013, 29(13):1614-1622
+  highlight: 0
+
+- title: The prediction of palmitoylation site locations using a multiple feature extraction method
+  image: dummy.png
+  description: ""
+  authors:
+    Shao-Ping Shi; Xing-Yu Sun; Jian-Ding Qiu#; <b>Sheng-Bao Suo</b>; Xiang Chen; Shu-Yun Huang; Ru-Ping Liang
+  link:
+    url: https://www.sciencedirect.com/science/article/abs/pii/S1093326312001490
+    display: Journal of Molecular Graphics & Modelling, 2013, 40:125-130
+  highlight: 0
+
+
+
+
+
+
+
+
+
+
+
+
