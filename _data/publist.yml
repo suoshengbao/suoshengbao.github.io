@@ -205,7 +205,7 @@
   image: dummy.png
   description: ""
   authors:
-    Adrienne M. Luoma#; Shengbao Suo#; Hannah L. Williams; Tatyana Sharova; Keri Sullivan; Michael Manos; Peter Bowling; F. Stephen Hodi; Osama Rahma; Ryan J. Sullivan; Genevieve M. Boland; Jonathan A. Nowak; Stephanie K. Dougan; Michael Dougan *; Guo-Cheng Yuan; Kai W. Wucherpfennig*
+    Adrienne M. Luoma^; Shengbao Suo^; Hannah L. Williams; Tatyana Sharova; Keri Sullivan; Michael Manos; Peter Bowling; F. Stephen Hodi; Osama Rahma; Ryan J. Sullivan; Genevieve M. Boland; Jonathan A. Nowak; Stephanie K. Dougan; Michael Dougan#; Guo-Cheng Yuan; Kai W. Wucherpfennig#
   link:
     url: https://doi.org/10.1016/j.cell.2020.06.001
     display: Cell, 2020, 182(3):655-671
