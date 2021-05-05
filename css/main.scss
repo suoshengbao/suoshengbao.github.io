@@ -62,6 +62,10 @@ firstp {
 	text-align: center;
 }
 
+#homeid p {
+    text-align: justify;
+}
+
 #newsid img {
 	margin-top: 6px;
 	margin-bottom: 6px;
@@ -83,7 +87,7 @@ firstp {
 
 /* Grid overrides */
 .col-sm-4 {
-	padding-left: 86px;
+	padding-left: 16px;
 	padding-right: 0px;
 }
 
