@@ -132,7 +132,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% endif %}
 
 
-## Alumni
+<!-- ## Alumni
 <table align="center" style="width:100%">
 <tr><th>Visitors</th>
     <th>Master Students</th> 
@@ -178,7 +178,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
     <td></td>
     <td>Daniëlle van Klink, Spring 2016</td>
   </tr>
-</table>
+</table> -->
 
 ## Administrative Support
 <a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration.
