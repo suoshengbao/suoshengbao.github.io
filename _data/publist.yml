@@ -1,23 +1,13 @@
-- title: Tunable  self-assembly of one-dimensional nanostructures with orthogonal directions
-  image: Pub_hBN.png
-  description:
-    Hexagonal boron nitride shows fancy superstructures on the Mo(111) surface.
-  authors:
-    MP Allan, S Berner, M Corso, T Greber, J Osterwalder
-  link:
-    url: http://www.nanoscalereslett.com/content/2/2/94
-    display: Nanoscale Research Letters 2, 94 (2007)
-  highlight: 1
-
 - title: Molecular pathways of colon inflammation induced by cancer immunotherapy
   image: dummy.png
-  description: ""
+  description: 
+    Molecular architecture of lineage allocation and tissue organization in early mouse embryo
   authors:
     Adrienne M. Luoma^; <b>Shengbao Suo</b>^; Hannah L. Williams; Tatyana Sharova; Keri Sullivan; Michael Manos; Peter Bowling; F. Stephen Hodi; Osama Rahma; Ryan J. Sullivan; Genevieve M. Boland; Jonathan A. Nowak; Stephanie K. Dougan; Michael Dougan#; Guo-Cheng Yuan; Kai W. Wucherpfennig#
   link:
     url: https://doi.org/10.1016/j.cell.2020.06.001
     display: Cell, 2020, 182(3):655-671
-  highlight: 0
+  highlight: 1
 
 - title: Molecular architecture of lineage allocation and tissue organization in early mouse embryo
   image: dummy.png
