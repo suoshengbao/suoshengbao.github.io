@@ -11,13 +11,14 @@
 
 - title: Molecular architecture of lineage allocation and tissue organization in early mouse embryo
   image: dummy.png
-  description: ""
+  description: 
+    Molecular architecture of lineage allocation and tissue organization in early mouse embryo
   authors:
     Guangdun Peng^#; <b>Shengbao Suo</b>^; Guizhong Cui^; Fang Yu^; Ran Wang; Jun Chen; Shirui Chen; Zhiwen Liu; Guoyu Chen; Yun Qian; Patrick P.L.Tam; Jing-Dong J.Han#; Naihe Jing#
   link:
     url: https://www.nature.com/articles/s41586-019-1469-8
     display: Nature, 2019, 572(7770):528-532
-  highlight: 0
+  highlight: 1
 
 - title: Revealing the critical regulators of cell identity in the mouse cell atlas
   image: dummy.png
