@@ -1,7 +1,7 @@
 ---
-title: "Suo Lab - Home"
+title: "Suo - Home"
 layout: homelay
-excerpt: "Suo Lab at XXX."
+excerpt: "Suo at XXX."
 sitemap: false
 permalink: /
 ---
