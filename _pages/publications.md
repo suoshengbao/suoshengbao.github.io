@@ -9,9 +9,9 @@ permalink: /publications/
 
 ## Publications
 
-## Highlights
+# Highlights
 
-(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.ch/citations?user=TqxYWZsAAAAJ), [ResearcherID](https://www.researcherid.com/rid/D-7763-2012))
+(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.com/citations?user=MgVR3TwAAAAJ&hl=en))
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -49,10 +49,9 @@ permalink: /publications/
 </div>
 {% endif %}
 
-<p> &nbsp; </p>
+<!-- <p> &nbsp; </p> -->
 
-
-## Full List
+# Full List
 
 {% for publi in site.data.publist %}
 
