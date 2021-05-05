@@ -239,7 +239,95 @@
     display: Journal of Molecular Graphics & Modelling, 2013, 40:125-130
   highlight: 0
 
+- title: A method to distinguish between lysine acetylation and lysine methylation from protein sequences
+  image: dummy.png
+  description: ""
+  authors:
+    Shao-Ping Shi; Jian-Ding Qiu#; Xing-Yu Sun; <b>Sheng-Bao Suo</b>; Shu-Yun Huang; Ru-Ping Liang
+  link:
+    url: https://www.sciencedirect.com/science/article/abs/pii/S0022519312003232?via%3Dihub
+    display: Journal of Theoretical Biology, 20 12, 310:223-230
+  highlight: 0
 
+- title: PredSulSite:Prediction of protein tyrosine sulfation sites with multiple features and analysis
+  image: dummy.png
+  description: ""
+  authors:
+    Shu-Yun Huang; Shao-Ping Shi; Jian-Ding Qiu#; Xing-Yu Sun; <b>Sheng-Bao Suo</b>; Ru-Ping Liang
+  link:
+    url: https://www.sciencedirect.com/science/article/abs/pii/S0003269712003077
+    display: Analytical Biochemistry, 2012, 428 (1):16-23
+  highlight: 0
+
+- title: PMeS:Prediction of methylation sites based on enhanced feature encoding scheme
+  image: dummy.png
+  description: ""
+  authors:
+    Shao-Ping Shi; Jian-Ding Qiu#; Xing-Yu Sun; <b>Sheng-Bao Suo</b>; Shu-Yun Huang; Ru-Ping Liang
+  link:
+    url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0038772
+    display: PLoS ONE, 2012, 7(6):e38772
+  highlight: 0
+
+- title: A novel algorithm combining support vector machine with the discrete wavelet transform for the prediction of protein subcellular localization
+  image: dummy.png
+  description: ""
+  authors:
+    Ru-Ping Liang; Shu-Yun Huang; Shao-Ping Shi; Xing-Yu Sun; <b>Sheng-Bao Suo</b>; Jian-Ding Qiu#
+  link:
+    url: https://www.sciencedirect.com/science/article/abs/pii/S0010482511002253
+    display: Computers in Biology and Medicine, 2012, 42(2):180-187
+  highlight: 0
+
+- title: Identifying protein quaternary structural attributes by incorporating physicochemical properties into the general form of Chou's PseAAC via discrete wavelet transform
+  image: dummy.png
+  description: ""
+  authors:
+    Xing-Yu Sun; Shao-Ping Shi; Jian-Ding Qiu#; <b>Sheng-Bao Suo</b>; Shu-Yun Huang; Ru-Ping Liang
+  link:
+    url: https://pubs.rsc.org/en/content/articlelanding/2012/mb/c2mb25280e#!divAbstract
+    display: Molecular BioSystems, 2012, 8(12):3178-3184
+  highlight: 0
+
+- title: PLMLA:prediction of lysine methylation and lysine acetylation by combining multiple features
+  image: dummy.png
+  description: ""
+  authors:
+    Shao-Ping Shi; Jian-Ding Qiu#; Xing-Yu Sun; <b>Sheng-Bao Suo</b>; Shu-Yun Huang; Ru-Ping Liang
+  link:
+    url: https://pubs.rsc.org/en/content/articlelanding/2012/mb/c2mb05502c/unauth#!divAbstract
+    display: Molecular BioSystems, 2012, 8(5):1520-1527
+  highlight: 0
+
+- title: OligoPred:A web-server for predicting homo-oligomeric proteins by incorporating discrete wavelet transform into Chou's pseudo amino acid composition
+  image: dummy.png
+  description: ""
+  authors:
+    Jian-Ding Qiu#; <b>Sheng-Bao Suo</b>; Xing-Yu Sun; Shao-Ping Shi; Ru-Ping Liang
+  link:
+    url: https://www.sciencedirect.com/science/article/abs/pii/S1093326311001033
+    display: Journal of Molecular Graphics & Modelling, 2011, 30:129-134
+  highlight: 0
+
+- title: Predicting homo-oligomers and hetero-oligomers by pseudo-amino acid composition An approach from discrete wavelet transformation
+  image: dummy.png
+  description: ""
+  authors:
+    Jian-Ding Qiu#; Xing-Yu Sun; <b>Sheng-Bao Suo</b>; Shao-Ping Shi; Shu-Yun Huang; Ru-Ping Liang; Li Zhang
+  link:
+    url: https://www.sciencedirect.com/science/article/abs/pii/S0300908411001003
+    display: Biochimie, 2011, 93(7):1132-1138
+  highlight: 0
+
+- title: Identify submitochondria and subchloroplast locations with pseudo amino acid composition Approach from the strategy of discrete wavelet transform feature extraction
+  image: dummy.png
+  description: ""
+  authors:
+    Shao-Ping Shi; Jian-Ding Qiu#; Xing-Yu Sun; Jian-Hua Huang; Shu-Yun Huang; <b>Sheng-Bao Suo</b>; Ru-Ping Liang; Li Zhang
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S016748891100019X
+    display: Biochimie, 2011, 93(7):1132-1138
+  highlight: 0
 
 
 
