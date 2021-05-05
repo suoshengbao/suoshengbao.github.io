@@ -1,5 +1,5 @@
 ---
-title: "Suo Lab - Vacancies"
+title: "Suo Lab - Positions"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
