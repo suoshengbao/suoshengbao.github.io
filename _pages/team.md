@@ -1,6 +1,6 @@
 ---
 title: "Suo - Team"
-layout: gridlay
+layout: piclay
 excerpt: "Suo: Team members"
 sitemap: false
 permalink: /team/
