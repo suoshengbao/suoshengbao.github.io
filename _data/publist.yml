@@ -3,7 +3,7 @@
   description: 
     Checkpoint blockade with antibodies specific for the PD-1 and CTLA-4 inhibitory receptors can induce durable responses in a wide range of human cancers. However, the immunological mechanisms responsible for severe inflammatory side effects remain poorly understood. Here we report a comprehensive single-cell analysis of immune cell populations in colitis, a common and severe side effect of checkpoint blockade. We observed a striking accumulation of CD8 T cells with highly cytotoxic and proliferative states and no evidence of regulatory T cell depletion. T cell receptor (TCR) sequence analysis demonstrated that a substantial fraction of colitis-associated CD8 T cells originated from tissue-resident populations, explaining the frequently early onset of colitis symptoms following treatment initiation. Our analysis also identified cytokines, chemokines, and surface receptors that could serve as therapeutic targets for colitis and potentially other inflammatory side effects of checkpoint blockade.
   authors:
-    Adrienne M. Luoma^; <b>Shengbao Suo</b>^; Hannah L. Williams; Tatyana Sharova; Keri Sullivan; Michael Manos; Peter Bowling; F. Stephen Hodi; Osama Rahma; Ryan J. Sullivan; Genevieve M. Boland; Jonathan A. Nowak; Stephanie K. Dougan; Michael Dougan#; Guo-Cheng Yuan#; Kai W. Wucherpfennig#
+    Adrienne M. Luoma^; **Shengbao Suo**^; Hannah L. Williams; Tatyana Sharova; Keri Sullivan; Michael Manos; Peter Bowling; F. Stephen Hodi; Osama Rahma; Ryan J. Sullivan; Genevieve M. Boland; Jonathan A. Nowak; Stephanie K. Dougan; Michael Dougan#; Guo-Cheng Yuan#; Kai W. Wucherpfennig#
   link:
     url: https://doi.org/10.1016/j.cell.2020.06.001
     display: Cell, 2020, 182(3):655-671
