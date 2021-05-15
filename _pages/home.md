@@ -49,7 +49,7 @@ Advances in single-cell technologies, especially for single-cell RNA sequencing 
 
 We are located at XX, the XX ([XX](https://www.)). We exchange ideas and work with our neighbors from [XX](http://www.), as well as with the colleagues from our [XX](https://www.).
 
- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+<!--  **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!** -->
  
  
 We are grateful for funding from XX, [XX](www.) and the [XX](https://www.).
