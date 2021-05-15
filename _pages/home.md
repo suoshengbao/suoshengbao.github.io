@@ -45,14 +45,15 @@ We are a small, dynamic group at the [XXX](http://www.). Our aim is to use compu
 </div>
 
 
-Advances in single-cell technologies, especially for single-cell RNA sequencing (scRNA-seq), are providing exciting opportunities for describing the characteristics and heterogeneity of individual cells and benefiting the study of cell identity, fate and function with unprecedented resolution (Stuart and Satija, 2019). Recent studies have also shown that identical cell types may have tissue-specific expression patterns, indicating that tissue environment plays an important role in mediating cell states. The loss of spatial information during the process of tissue dissociation and cell isolation will limit our understanding of cellular interactions and organization in the microenvironment. Recently, a number of methods providing spatially resolved transcriptomic profiling have been introduced and are complementary to scRNA-seq (Asp et al., 2020). Some studies, for example, from development, stem cell, cancer and immunology fields, clearly highlight the power of scRNA-seq and spatial transcriptomes for parsing the spatial context in high resolution (Baccin et al., 2020; Moncada et al., 2020). However, due to technical limitations and complexity of data structure, there are some unique computational challenges need to be addressed for advancing the field of single-cell omics (see [Research](research))
+Advances in single-cell technologies, especially for single-cell RNA sequencing (scRNA-seq), are providing exciting opportunities for describing the characteristics and heterogeneity of individual cells and benefiting the study of cell identity, fate and function with unprecedented resolution (Stuart and Satija, 2019). Recent studies have also shown that identical cell types may have tissue-specific expression patterns, indicating that tissue environment plays an important role in mediating cell states. The loss of spatial information during the process of tissue dissociation and cell isolation will limit our understanding of cellular interactions and organization in the microenvironment. Recently, a number of methods providing spatially resolved transcriptomic profiling have been introduced and are complementary to scRNA-seq (Asp et al., 2020). Some studies, for example, from development, stem cell, cancer and immunology fields, clearly highlight the power of scRNA-seq and spatial transcriptomes for parsing the spatial context in high resolution (Baccin et al., 2020; Moncada et al., 2020). However, due to technical limitations and complexity of data structure, there are some unique computational challenges need to be addressed for advancing the field of single-cell omics 
+<!-- (see [Research](research)) -->
 
-We are located at XX, the XX ([XX](https://www.)). We exchange ideas and work with our neighbors from [XX](http://www.), as well as with the colleagues from our [XX](https://www.).
+We are located at XX, the XX ([XX](https://www.)). We exchange ideas and work with our neighbors from [XX](http://www.), as well as with the colleagues from [XX](https://www.).
 
 <!--  **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!** -->
  
  
-We are grateful for funding from XX, [XX](www.) and the [XX](https://www.).
+We are grateful for funding from [XX](www.) and [XX](https://www.).
 
 <!-- <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
