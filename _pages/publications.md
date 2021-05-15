@@ -1,13 +1,14 @@
 ---
-title: "Suo Lab - Publications"
+title: "Suo - Publications"
 layout: gridlay
-excerpt: "Suo Lab -- Publications."
+excerpt: "Suo -- Publications."
 sitemap: false
 permalink: /publications/
 ---
 
 
 ## Publications
+(^ co-first author, # corresponding author)
 
 ### Highlights
 
