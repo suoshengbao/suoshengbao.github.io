@@ -1,7 +1,7 @@
 ---
-title: "Suo - Team"
+title: "SuoLab - Team"
 layout: piclay
-excerpt: "Suo: Team members"
+excerpt: "SuoLab: Team members"
 sitemap: false
 permalink: /team/
 ---

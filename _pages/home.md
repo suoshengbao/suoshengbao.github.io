@@ -1,12 +1,12 @@
 ---
 title: "Suo - Home"
 layout: homelay
-excerpt: "Suo at XXX."
+excerpt: "Suo at BL."
 sitemap: false
 permalink: /
 ---
 
-We are a small, dynamic group at the [XXX](http://www.). Our aim is to use computational and theoretical approaches combined with multi-omics high-throughput sequencing data to quantitatively understand gene regulation, cell differentiation and spatial cell-cell interaction in single cells, with focus on questions in developmental, stem cell biology and cancer immunology. 
+We are a new group at the [Bioland Laboratory](https://www.grmh-gdl.cn). Our aim is to use computational and theoretical approaches combined with multi-omics high-throughput sequencing data to quantitatively understand gene regulation, cell differentiation and spatial cell-cell interaction in single cells, with focus on questions in developmental, stem cell biology and cancer immunology. 
  
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
