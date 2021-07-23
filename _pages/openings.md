@@ -43,9 +43,9 @@ permalink: /positions
 
 ### Research Assistant and Lab manager
 <p>The candidates would have a Bachlor/Master degree in biology and related areas, be familar with wet lab experiments and capable of dealing with lab start-up affairs.</p>
-<p>The candidate would have great communication skills and English writing skills.</p>
+<p>The candidates would have great communication skills and English writing skills.</p>
 
-<p>If you are interested in joining us, please send us an email along with a brief cover letter and a detailed CV . Please indicate “Application Lab manager (Your name)” in the email subject.</p>
+<p>If you are interested in joining us, please send us an email along with a brief cover letter and a detailed CV . Please indicate “Application Research Assistant (Your name)” in the email subject.</p>
 
 <!-- <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="95%">
