@@ -41,7 +41,7 @@ permalink: /positions
 
 <p>If you are interested in joining us, please send us an email along with a brief cover letter and a detailed CV. Please indicate “Application Assitent Investigator (Your name)” in the email subject.</p>
 
-### Research Assistants and Lab manager
+### Research Assistant and Lab manager
 <p>The candidate would have a Bachlor/Master degree in biology and related areas, be familar with wet lab experiments and capable of dealing with lab start-up affairs.</p>
 <p>The candidate would have great communication skills and English writing skills.</p>
 
