@@ -78,7 +78,7 @@ permalink: /team/
 
 
 
-## Master and Bachelor Students 
+<!-- ## Master and Bachelor Students 
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
@@ -130,7 +130,7 @@ permalink: /team/
 {% if even_odd == 1 %}
 </div>
 {% endif %}
-
+ -->
 
 <!-- ## Alumni
 <table align="center" style="width:100%">
