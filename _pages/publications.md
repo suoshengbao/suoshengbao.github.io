@@ -1,7 +1,7 @@
 ---
 title: "Suo - Publications"
 layout: gridlay
-excerpt: "Suo -- Publications."
+excerpt: "SuoLab -- Publications."
 sitemap: false
 permalink: /publications/
 ---
