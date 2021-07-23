@@ -1,13 +1,12 @@
-# - name: Milan P Allan
-#   photo: Milan.jpg
-#   info: Assistant Professor, started Jan 2015
-#   email: milan.allan@gmail.com
-#   number_educ: 5
-#   education1: Master ETHZ, Diplomarbeit with <a href="http://www.physik.uzh.ch/groups/osterwalder/">J Osterwalder</a>, University of Zurich
-#   education2: PhD St Andrews (and Cornell University) with <a href="http://dpmc.unige.ch/gr_baumberger/index.html">Felix Baumberger</a> and <a href="http://davisgroup.lassp.cornell.edu/">JC Davis</a>
-#   education3: Postdoc Cornell
-#   education4: <a href="http://www.ethfellows.ethz.ch/">ETH fellow</a> at ETHZ with Andreas Wallraff
-#   education5: <a href="https://www.universiteitleiden.nl/en/news/2017/07/milan-allan-wins-bryan-r.-coles-prize">Bryan R. Coles Prize 2017</a>
+- name: Shengbao Suo
+  photo: ShengbaoSuo.jpg
+  info: Principal Investigator
+  email: XX@XX
+  number_educ: 4
+  education1: Ph. D. in CAS-MPG Partner Institute for Computational Biology, Chinese Academy of Sciences.
+  education2: Postdoc in Department of Cancer Immunology and Virology at Dana-Farber Cancer Institute and Harvard Medical School
+  education3: Postdoc in Department of Pediatric Oncology at Dana-Farber Cancer Institute and Harvard Medical School, USA.
+  education4: Postdoc in Department of Data Sciences at Dana-Farber Cancer Institute and Department of Biostatistics at Harvard School of Public Health, USA
   
 # - name: Doohee Cho
 #   photo: Doohee2.jpg
