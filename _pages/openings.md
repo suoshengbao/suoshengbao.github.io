@@ -1,6 +1,6 @@
 ---
 title: "SuoLab - Positions"
-layout: textlay
+layout: positions
 excerpt: "Openings"
 sitemap: false
 permalink: /positions
