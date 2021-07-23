@@ -51,7 +51,7 @@ permalink: /
 
 <!-- We are located at XX, the XX ([XX](https://www.)). We exchange ideas and work with our neighbors from [XX](http://www.), as well as with the colleagues from [XX](https://www.). -->
 
- **We are  looking for passionate associate research scientist, postdocs, and assitent research scientist and research assistants to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/positions) **!**
+ **We are  looking for passionate Associate Investigator, Postdocs, Assitent Investigator and Lab manager to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/positions) **!**
  
  
 <!-- We are grateful for funding from [XX](www.) and [XX](https://www.). -->
