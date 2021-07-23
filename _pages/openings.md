@@ -24,7 +24,7 @@ permalink: /positions
 <p>If you are interested in joining us, please send us an email along with a brief cover letter, a detailed CV and at least two recommendation letters. Please indicate “Application Associate Investigator (Your name)” in the email subject.</p>
 
 ### Postdoc
-<p>The candidates will have (or about to have) a Ph.D. in computational biology/bioinformatics/computer science/statistics or another quantitative field, as well as excellent programming and communication skills. Substantial experience in analysis of high-throughput sequencing data is highly desirable.</p>
+<p>The candidates will have (or about to have) a Ph.D. in computational biology/bioinformatics/computer science/statistics or other quantitative fields, as well as excellent programming and communication skills. Substantial experience in analysis of high-throughput sequencing data is highly desirable.</p>
 
 <p>Candidates with a Ph.D. degree in cell biology, molecular biology, immunology (etc.) with substantial experience and interest in quantitative fields/programming are also welcomed to apply.</p>
 
@@ -35,7 +35,7 @@ permalink: /positions
 <p>If you are interested in joining us, please send us an email along with a brief cover letter, a detailed CV and at least two recommendation letters. Please indicate “Application Postdoc (Your name)” in the email subject.</p>
 
 ### Assitent Investigator
-<p>The candidates will have (or about to have) a Ph.D. in computational biology/bioinformatics/computer science/statistics or other quantitative field, as well as great programming and communication skills. Substantial experience in analysis of high-throughput sequencing data is highly desirable.</p>
+<p>The candidates will have (or about to have) a Ph.D. in computational biology/bioinformatics/computer science/statistics or other quantitative fields, as well as great programming and communication skills. Substantial experience in analysis of high-throughput sequencing data is highly desirable.</p>
 
 <p>The successful candidates will join a vibrant scientific environment devoted to basic science aiming at integrating research activities among partner institutes and conduct interdisciplinary research to address high-priority projects through the combination of complementary knowledge, methods and techniques.</p>
 
