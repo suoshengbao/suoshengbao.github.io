@@ -23,10 +23,10 @@ permalink: /team/
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h3>{{ member.name }}</h3>
+  <p><img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" /></p>
+  <p><h3>{{ member.name }}</h3></p>
   <!-- <i>{{ member.info }}<br>email: <{{ member.email }}></i> -->
-  <h5>{{ member.info }}<h5>
+  <p><h5>{{ member.info }}<h5></p>
   <ul style="overflow: hidden">
   
   {% if member.number_educ == 1 %}
