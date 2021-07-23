@@ -72,7 +72,7 @@
 #   education2: Associate degree Mechanical Engineering, Hogeschool Arnhem Nijmegen
  
 - name: "This could be you !"
-  photo: rock.jpg
+  photo: dummy.png
   info: See <a href="http://https://suoshengbao.github.io/team/">openings</a> for more info
   email: 
   number_educ: 0
