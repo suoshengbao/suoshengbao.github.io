@@ -8,18 +8,9 @@ permalink: /positions
 
 # Open positions
 
-We are always looking for new group members with passion, talent, and grit... 
-.   
--   
--   
--   
--   
--   
--   
--   
--   
--   
--   
+**Our lab will mainly use computational and theoretical approaches combined with multi-omics high-throughput sequencing data, but also wet-lab experiments when desired, to systematically understand gene regulation, cell differentiation and spatial cell-cell interaction in single cells, with focus on questions in developmental, stem cell biology and immunology.**
+
+
 
 You will have the chance to work on the grand challenges of condensed matter physics, often at the interface of instrumental design and new physics. You will be involved in determining the important and interesting questions, creating and improving instrumental setups, performing measurements, and making discoveries.
 
@@ -35,6 +26,6 @@ If you are a Master student at Leiden University looking for a Master project, c
 If you are interested in pursuing a Master degree at Leiden University, see [mastersinleiden.nl](http://www.mastersinleiden.nl/programmes/physics/en/introduction). Sometimes, we take master students or summer interns if we get exceptional applicants (this usually means very good grades or a personal recomendation).
 
 
-<figure>
+<!-- <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="95%">
-</figure>
+</figure> -->
