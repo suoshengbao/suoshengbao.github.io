@@ -17,7 +17,7 @@ permalink: /positions
 
 <p>Candidates with a Ph.D. degree in cell biology, molecular biology, immunology (etc.) with substantial experience and interest in quantitative fields/programming are also welcomed to apply.</p>
 
-<p>The candidates would have ability to develop independent research programs/projects, and candidates with experience in postdoctoral training or research and strong record in research is strongly preferred.</p>
+<p>The candidates would have ability to develop independent research programs/projects, and candidates with experience in postdoctoral training or research and strong record in research are strongly preferred.</p>
 
 <p>The successful candidates will join a vibrant scientific environment devoted to basic science aiming at integrating research activities among partner institutes and conduct interdisciplinary research to address high-priority projects through the combination of complementary knowledge, methods and techniques.</p>
 
