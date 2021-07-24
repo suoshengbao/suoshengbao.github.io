@@ -16,8 +16,8 @@ permalink: /team/
 <div class="col-sm-6" style="padding-left: 1px;">
 <div class="well"  style="height: 300px; width: 960px">
 <img src="/images/teampic/ShengbaoSuo.jpg" class="img-responsive" width="15%" style="padding-left: 1px; padding-right: 5px;"/>
-<h4>  Shengbao Suo</h4>
-<p><i>  Principal Investigator<i></p>
+<h4>Shengbao Suo</h4>
+<p><i>Principal Investigator<i></p>
 <p></p>
 <p></p>
 <li> Postdoc in Department of Cancer Immunology and Virology at Dana-Farber Cancer Institute and Harvard Medical School </li>
