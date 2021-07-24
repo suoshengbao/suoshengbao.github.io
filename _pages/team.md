@@ -26,7 +26,7 @@ permalink: /team/
 </div>
 </div>
 
-<div class="col-sm-6" style="padding-left: 1px;">
+<div style="padding-left: 1px; position: absolute; height: 10px; border: solid; bottom: 0; right: 0;  left: 0; ">
 <div class="well"  style="height: 180px; width: 960px">
 <img src="/images/teampic/ShengbaoSuo.jpg" width="12.8%" style="float: left;"/>
 <h5><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Shengbao Suo<strong></h5>
