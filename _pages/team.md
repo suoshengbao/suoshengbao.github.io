@@ -14,7 +14,7 @@ permalink: /team/
 
 ## Staff
 <div style="padding-left: 0px; position: relative; height: 10px; right: 0;  left: 0; ">
-<div class="well"  style="height: 160px; width: 950px">
+<div class="well"  style="height: 150px; width: 945px">
 <img src="/images/teampic/ShengbaoSuo.jpg" width="10%" style="float: left;"/>
 <h5><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Shengbao Suo<strong></h5>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Principal Investigator</i></p>
@@ -56,7 +56,7 @@ permalink: /team/
 </table> -->
 
 <div style="padding-left: 0px; display:inline-block;margin-top:20px;">
-<div class="well"  style="height: 160px; width: 950px">
+<div class="well"  style="height: 150px; width: 945px">
 <img src="/images/teampic/dummy.png" width="10%" style="float: left;"/>
 <h5><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This could be you!<strong></h5>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>XX</i></p>
