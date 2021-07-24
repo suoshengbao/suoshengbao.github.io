@@ -1,12 +1,12 @@
-- name: Shengbao Suo
-  photo: ShengbaoSuo.jpg
-  info: Principal Investigator
-  email: XX@XX
-  number_educ: 4
-  education1: Ph. D. in CAS-MPG Partner Institute for Computational Biology, Chinese Academy of Sciences.
-  education2: Postdoc in Department of Cancer Immunology and Virology at Dana-Farber Cancer Institute and Harvard Medical School
-  education3: Postdoc in Department of Pediatric Oncology at Dana-Farber Cancer Institute and Harvard Medical School, USA.
-  education4: Postdoc in Department of Data Sciences at Dana-Farber Cancer Institute and Department of Biostatistics at Harvard School of Public Health, USA
+# - name: Shengbao Suo
+#   photo: ShengbaoSuo.jpg
+#   info: Principal Investigator
+#   email: XX@XX
+#   number_educ: 4
+#   education1: Ph. D. in CAS-MPG Partner Institute for Computational Biology, Chinese Academy of Sciences.
+#   education2: Postdoc in Department of Cancer Immunology and Virology at Dana-Farber Cancer Institute and Harvard Medical School
+#   education3: Postdoc in Department of Pediatric Oncology at Dana-Farber Cancer Institute and Harvard Medical School, USA.
+#   education4: Postdoc in Department of Data Sciences at Dana-Farber Cancer Institute and Department of Biostatistics at Harvard School of Public Health, USA
   
 # - name: Doohee Cho
 #   photo: Doohee2.jpg
