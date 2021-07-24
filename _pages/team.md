@@ -17,10 +17,12 @@ permalink: /team/
     <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/ShengbaoSuo.jpg" class="img-responsive" width="20%" style="float: left" />
     <h4>Shengbao Suo</h4>
     <p><i>Principal Investigator</i></p>
+    <ul style="overflow: hidden">
       <li> Postdoc in Department of Cancer Immunology and Virology at Dana-Farber Cancer Institute and Harvard Medical School </li>
       <li> Postdoc in Department of Pediatric Oncology at Dana-Farber Cancer Institute and Harvard Medical School. </li>
       <li> Postdoc in Department of Data Sciences at Dana-Farber Cancer Institute and Harvard School of Public Health. </li>
       <li> Ph. D. in CAS-MPG Partner Institute for Computational Biology, Chinese Academy of Sciences. </li>
+    </ul>
 </div>
 
 {% assign number_printed = 0 %}
