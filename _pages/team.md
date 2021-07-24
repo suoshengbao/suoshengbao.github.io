@@ -1,6 +1,6 @@
 ---
 title: "SuoLab - Team"
-layout: gridlay
+layout: teamlay
 excerpt: "SuoLab: Team members"
 sitemap: false
 permalink: /team/
