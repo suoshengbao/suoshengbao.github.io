@@ -26,7 +26,7 @@ permalink: /team/
 </div>
 </div>
 
-<table width="950px" border="0" bgcolor="#EFEFEF">
+<table width="950px" border="0" bgcolor="#FFFFFF">
   <tbody>
     <tr>
       <td width="54" rowspan="5"><img src="/images/teampic/ShengbaoSuo.jpg" width="50%"/></td>
