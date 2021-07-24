@@ -17,7 +17,7 @@ permalink: /team/
 <div class="well"  style="height: 160px; width: 950px">
 <img src="/images/teampic/ShengbaoSuo.jpg" width="10%" style="float: left;"/>
 <h5><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Shengbao Suo<strong></h5>
-<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Principal Investigator</i>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Principal Investigator</i></p>
 <ul style="list-style-type:square; overflow: hidden">
 <li>2021&nbsp;&nbsp;Postdoc, Dana-Farber Cancer Institute and Harvard Medical School</li>
 <li>2019&nbsp;&nbsp;Postdoc, Dana-Farber Cancer Institute and Harvard School of Public Health</li>
@@ -55,7 +55,7 @@ permalink: /team/
   </tbody>
 </table> -->
 
-<div style="padding-left: 0px; float:left">
+<div style="padding-left: 0px; display:inline-block;margin-left:10px;">
 <div class="well"  style="height: 160px; width: 950px">
 <img src="/images/teampic/dummy.png" width="10%" style="float: left;"/>
 <h5><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This could be you!<strong></h5>
