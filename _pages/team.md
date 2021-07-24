@@ -17,7 +17,7 @@ permalink: /team/
 <div class="well"  style="height: 200px; width: 960px">
 <img src="/images/teampic/ShengbaoSuo.jpg" width="12%" style="float: left; border-radius:20px"/>
 ** - Shengbao Suo **
- - Principal Investigator
+<p>- Principal Investigator</p>
 <ul style="list-style-type:square; overflow: hidden">
 <li>2021   Postdoc, Dana-Farber Cancer Institute and Harvard Medical School</li>
 <li>2020   Postdoc, Dana-Farber Cancer Institute and Harvard Medical School</li>
