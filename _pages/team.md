@@ -14,15 +14,17 @@ permalink: /team/
 
 ## Staff
 <div class="col-sm-6 clearfix">
-  <p><img src="/images/teampic/ShengbaoSuo.jpg" class="img-responsive" width="20%" style="float: left" /></p>
-  <h4>Shengbao Suo</h4>
-  <p><i>Principal Investigator<i></i></i></p>
-  <ul style="overflow: hidden">
-    <li> Ph. D. in CAS-MPG Partner Institute for Computational Biology, Chinese Academy of Sciences. </li>
-    <li> Postdoc in Department of Cancer Immunology and Virology at Dana-Farber Cancer Institute and Harvard Medical School </li>
-    <li> Postdoc in Department of Pediatric Oncology at Dana-Farber Cancer Institute and Harvard Medical School, USA. </li>
-    <li> Postdoc in Department of Data Sciences at Dana-Farber Cancer Institute and Department of Biostatistics at Harvard School of Public Health, USA </li>
-  </ul>
+  <div class="well"  style="height: 660px;">
+    <p><img src="/images/teampic/ShengbaoSuo.jpg" class="img-responsive" width="20%" style="float: left" /></p>
+    <h4>Shengbao Suo</h4>
+    <p><i>Principal Investigator<i></i></i></p>
+    <ul style="overflow: hidden">
+      <li> Ph. D. in CAS-MPG Partner Institute for Computational Biology, Chinese Academy of Sciences. </li>
+      <li> Postdoc in Department of Cancer Immunology and Virology at Dana-Farber Cancer Institute and Harvard Medical School </li>
+      <li> Postdoc in Department of Pediatric Oncology at Dana-Farber Cancer Institute and Harvard Medical School, USA. </li>
+      <li> Postdoc in Department of Data Sciences at Dana-Farber Cancer Institute and Department of Biostatistics at Harvard School of Public Health, USA </li>
+    </ul>
+  </div>
 </div>
 
 {% assign number_printed = 0 %}
