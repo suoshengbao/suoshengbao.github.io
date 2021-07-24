@@ -17,7 +17,7 @@ permalink: /team/
 <div class="well"  style="height: 300px; width: 960px">
 <img src="/images/teampic/ShengbaoSuo.jpg" class="img-responsive" width="10%" style="float: left"/>
 <h4>Shengbao Suo</h4>
-<p><i>Principal Investigator<i></p>
+<i>Principal Investigator<i>
 - Postdoc, Department of Cancer Immunology and Virology, Dana-Farber Cancer Institute and Harvard Medical School
 - Postdoc, Department of Pediatric Oncology, Dana-Farber Cancer Institute and Harvard Medical School
 - Postdoc, Department of Data Sciences, Dana-Farber Cancer Institute and Harvard School of Public Health
