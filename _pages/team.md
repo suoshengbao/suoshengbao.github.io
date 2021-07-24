@@ -26,7 +26,7 @@ permalink: /team/
 </div>
 </div>
 
-<table width="950px" border="0" bgcolor="#FFFFFF">
+<table width="950px" border="0" bgcolor=#FFFFFF>
   <tbody>
     <tr>
       <td width="54" rowspan="5"><img src="/images/teampic/ShengbaoSuo.jpg" width="60%"/></td>
@@ -36,18 +36,18 @@ permalink: /team/
       <td><em>Principal Investigator</em></td>
     </tr>
     <tr>
-      <td><ul style="list-style-type:square">
-        <li>2021  Postdoc, Dana-Farber Cancer Institute and Harvard Medical School</li>
+      <td>
+        - 2021 Postdoc, Dana-Farber Cancer Institute and Harvard Medical School
+      </td>
+    </tr>
+    <tr>
+      <td>
+        - 2019 Postdoc, Dana-Farber Cancer Institute and Harvard School of Public Health
       </ul></td>
     </tr>
     <tr>
-      <td><ul style="list-style-type:square">
-        <li>2019  Postdoc, Dana-Farber Cancer Institute and Harvard School of Public Health</li>
-      </ul></td>
-    </tr>
-    <tr>
-      <td><ul style="list-style-type:square">
-        <li>2017  Ph. D., CAS-MPG Partner Institute for Computational Biology, Chinese Academy of Sciences</li>
+      <td>
+        - 2017 Ph. D., CAS-MPG Partner Institute for Computational Biology, Chinese Academy of Sciences
       </ul></td>
     </tr>
   </tbody>
