@@ -66,6 +66,17 @@ permalink: /team/
 </div>
 </div>
 
+<div style="padding-left: 0px; display:inline-block;margin-top:20px;">
+<div class="well"  style="height: 150px; width: 945px">
+<img src="/images/teampic/dummy.png" width="10%" style="float: left;"/>
+<h5><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This could be you!<strong></h5>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>XX</i></p>
+<ul style="list-style-type:square; overflow: hidden">
+<li>XX</li>
+</ul>
+</div>
+</div>
+
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
