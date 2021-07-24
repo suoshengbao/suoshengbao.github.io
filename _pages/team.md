@@ -26,7 +26,7 @@ permalink: /team/
 </div>
 </div>
 
-<div style="padding-left: 0px; display:inline-block;margin-top:-2px;">
+<div style="padding-left: 0px; display:inline-block;margin-top:-10px;">
 <div class="well"  style="height: 150px; width: 945px">
 <img src="/images/teampic/dummy.png" width="10%" style="float: left;"/>
 <h5><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This could be you!<strong></h5>
@@ -37,7 +37,7 @@ permalink: /team/
 </div>
 </div>
 
-<div style="padding-left: 0px; display:inline-block;margin-top:-2px;">
+<div style="padding-left: 0px; display:inline-block;margin-top:-10px;">
 <div class="well"  style="height: 150px; width: 945px">
 <img src="/images/teampic/dummy.png" width="10%" style="float: left;"/>
 <h5><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This could be you!<strong></h5>
