@@ -6,7 +6,7 @@ sitemap: false
 permalink: /positions
 ---
 
-# Open positions
+## Open positions
 
 <p>**Our lab will mainly use computational and theoretical approaches combined with multi-omics high-throughput sequencing data, but also wet-lab experiments if needed, to systematically understand gene regulation, cell differentiation and spatial cell-cell interaction in single cells, with focus on questions in developmental, stem cell biology and immunology.** </p>
 <p>**We are always looking for creative, energetic and collaborative researchers to join our interdisciplinary team!**</p>
