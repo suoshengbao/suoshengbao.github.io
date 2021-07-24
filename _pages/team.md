@@ -29,7 +29,7 @@ permalink: /team/
 <table width="950px" border="0" bgcolor="#FFFFFF">
   <tbody>
     <tr>
-      <td width="100" rowspan="5"><img src="/images/teampic/ShengbaoSuo.jpg" width="60%"></td>
+      <td width="50" rowspan="5"><img src="/images/teampic/ShengbaoSuo.jpg" width="60%"></td>
       <td width="265"><h5><strong>Shengbao Suo</strong></h5></td>
     </tr>
     <tr>
