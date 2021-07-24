@@ -26,7 +26,7 @@ permalink: /team/
 </div>
 </div>
 
-<div style="padding-left: 1px; position: relative; height: 10px; right: 0;  left: 0; ">
+<div style="padding-left: 2px; position: relative; height: 10px; right: 0;  left: 0; ">
 <div class="well"  style="height: 160px; width: 960px">
 <img src="/images/teampic/dummy.png" width="10%" style="float: left;"/>
 <h5><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;XXX<strong></h5>
