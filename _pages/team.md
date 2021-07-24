@@ -55,7 +55,7 @@ permalink: /team/
   </tbody>
 </table> -->
 
-<div style="padding-left: 0px; display:inline-block;">
+<div style="padding-left: 0px; float:left">
 <div class="well"  style="height: 160px; width: 950px">
 <img src="/images/teampic/dummy.png" width="10%" style="float: left;"/>
 <h5><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This could be you!<strong></h5>
