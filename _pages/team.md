@@ -13,7 +13,7 @@ permalink: /team/
 <!-- Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors). -->
 
 ## Staff
-<div style="padding-left: 2px; position: absolute; height: 10px;">
+<div style="padding-left: 1px; position: absolute; height: 10px; bottom: 0; right: 0;  left: 0; ">
 <div class="well"  style="height: 160px; width: 960px">
 <img src="/images/teampic/ShengbaoSuo.jpg" width="10%" style="float: left;"/>
 <h5><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Shengbao Suo<strong></h5>
@@ -26,19 +26,19 @@ permalink: /team/
 </div>
 </div>
 
-<div style="padding-left: 2px; position: absolute; height: 10px;">
+<!-- <div style="padding-left: 1px; position: absolute; height: 10px; bottom: 0; right: 0;  left: 0; ">
 <div class="well"  style="height: 160px; width: 960px">
 <img src="/images/teampic/dummy.png" width="10%" style="float: left;"/>
 <h5><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;XXX<strong></h5>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>XXX</i></p>
-<!-- <ul style="list-style-type:square; overflow: hidden">
+<ul style="list-style-type:square; overflow: hidden">
 <li>2021&nbsp;&nbsp;Postdoc, Dana-Farber Cancer Institute and Harvard Medical School</li>
 <li>2020&nbsp;&nbsp;Postdoc, Dana-Farber Cancer Institute and Harvard Medical School</li>
 <li>2019&nbsp;&nbsp;Postdoc, Dana-Farber Cancer Institute and Harvard School of Public Health</li>
 <li>2017&nbsp;&nbsp;Ph. D., CAS-MPG Partner Institute for Computational Biology, Chinese Academy of Sciences</li>
-</ul> -->
+</ul>
 </div>
-</div>
+</div> -->
 
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
