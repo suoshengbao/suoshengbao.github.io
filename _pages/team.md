@@ -27,6 +27,20 @@ permalink: /team/
 </div>
 </div>
 
+<div class="col-sm-6 clearfix" style="padding-left: 1px;">
+<div class="well"  style="height: 200px; width: 960px">
+<img src="/images/teampic/ShengbaoSuo.jpg" width="12%" style="float: left; border-radius:20px"/>
+<h5><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Shengbao Suo<strong></h5>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Principal Investigator</i></p>
+<ul style="list-style-type:square; overflow: hidden">
+<li>2021&nbsp;&nbsp;Postdoc, Dana-Farber Cancer Institute and Harvard Medical School</li>
+<li>2020&nbsp;&nbsp;Postdoc, Dana-Farber Cancer Institute and Harvard Medical School</li>
+<li>2019&nbsp;&nbsp;Postdoc, Dana-Farber Cancer Institute and Harvard School of Public Health</li>
+<li>2017&nbsp;&nbsp;Ph. D., CAS-MPG Partner Institute for Computational Biology, Chinese Academy of Sciences</li>
+</ul>
+</div>
+</div>
+
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
