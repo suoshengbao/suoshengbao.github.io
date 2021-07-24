@@ -26,7 +26,7 @@ permalink: /team/
 </div>
 </div>
 
-<br/>
+<p>&nbsp;</p>
 
 <!-- <table width="950px" border="0" bgcolor="#FFFFFF">
   <tbody>
