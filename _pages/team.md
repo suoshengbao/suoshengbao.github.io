@@ -26,7 +26,7 @@ permalink: /team/
 </div>
 </div>
 
-<!-- <div style="padding-left: 1px; position: absolute; height: 10px; bottom: 0; right: 0;  left: 0; ">
+<div style="padding-left: 1px; position: relative; height: 10px; bottom: 0; right: 0;  left: 0; ">
 <div class="well"  style="height: 160px; width: 960px">
 <img src="/images/teampic/dummy.png" width="10%" style="float: left;"/>
 <h5><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;XXX<strong></h5>
@@ -38,7 +38,7 @@ permalink: /team/
 <li>2017&nbsp;&nbsp;Ph. D., CAS-MPG Partner Institute for Computational Biology, Chinese Academy of Sciences</li>
 </ul>
 </div>
-</div> -->
+</div>
 
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
