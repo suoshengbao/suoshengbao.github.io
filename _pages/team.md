@@ -28,7 +28,7 @@ permalink: /team/
 
 <br/>
 
-<table width="950px" border="0" bgcolor="#FFFFFF">
+<!-- <table width="950px" border="0" bgcolor="#FFFFFF">
   <tbody>
     <tr>
       <td width="50" rowspan="5"><img src="/images/teampic/ShengbaoSuo.jpg" width="60%"></td>
@@ -53,13 +53,13 @@ permalink: /team/
       </td>
     </tr>
   </tbody>
-</table>
+</table> -->
 
 <div style="padding-left: 0px; position: relative; height: 10px; right: 0;  left: 0; ">
 <div class="well"  style="height: 160px; width: 950px">
 <img src="/images/teampic/dummy.png" width="10%" style="float: left;"/>
 <h5><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This could be you!<strong></h5>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Principal Investigator</i></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>XX</i></p>
 <ul style="list-style-type:square; overflow: hidden">
 <li>XX</li>
 </ul>
