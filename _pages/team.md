@@ -17,7 +17,7 @@ permalink: /team/
   <div class="well"  style="height: 660px;">
     <p><img src="/images/teampic/ShengbaoSuo.jpg" class="img-responsive" width="20%" style="float: left" /></p>
     <h4>Shengbao Suo</h4>
-    <p><i>Principal Investigator<i></i></i></p>
+    <p><i>Principal Investigator</i></p>
     <ul style="overflow: hidden">
       <li> Ph. D. in CAS-MPG Partner Institute for Computational Biology, Chinese Academy of Sciences. </li>
       <li> Postdoc in Department of Cancer Immunology and Virology at Dana-Farber Cancer Institute and Harvard Medical School </li>
