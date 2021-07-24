@@ -13,7 +13,7 @@ permalink: /team/
 <!-- Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors). -->
 
 ## Staff
-<div class="col-sm-6 clearfix">
+<!-- <div class="col-sm-6 clearfix">
     <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/ShengbaoSuo.jpg" class="img-responsive" width="20%" style="float: left" />
     <h4>Shengbao Suo</h4>
     <p><i>Principal Investigator</i></p>
@@ -24,7 +24,7 @@ permalink: /team/
       <li> Ph. D. in CAS-MPG Partner Institute for Computational Biology, Chinese Academy of Sciences. </li>
     </ul>
 </div>
-
+ -->
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
