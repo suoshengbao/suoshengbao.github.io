@@ -26,6 +26,8 @@ permalink: /team/
 </div>
 </div>
 
+<br/>
+
 <table width="950px" border="0" bgcolor="#FFFFFF">
   <tbody>
     <tr>
@@ -37,7 +39,7 @@ permalink: /team/
     </tr>
     <tr>
       <td>
-        > 2021 Postdoc, Dana-Farber Cancer Institute and Harvard Medical School
+        - 2021 Postdoc, Dana-Farber Cancer Institute and Harvard Medical School
       </td>
     </tr>
     <tr>
@@ -47,7 +49,7 @@ permalink: /team/
     </tr>
     <tr>
       <td>
-        > 2017 Ph. D., CAS-MPG Partner Institute for Computational Biology, Chinese Academy of Sciences
+        - 2017 Ph. D., CAS-MPG Partner Institute for Computational Biology, Chinese Academy of Sciences
       </td>
     </tr>
   </tbody>
