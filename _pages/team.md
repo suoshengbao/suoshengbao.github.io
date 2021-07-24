@@ -13,8 +13,6 @@ permalink: /team/
 <!-- Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors). -->
 
 ## Staff
-<div style="position: relative;">
-
 <div style="padding-left: 2px; padding-right: 5px; position: absolute; height: 10px;">
 <div class="well"  style="height: 160px; width: 960px">
 <img src="/images/teampic/ShengbaoSuo.jpg" width="10%" style="float: left;"/>
@@ -42,7 +40,6 @@ permalink: /team/
 </div>
 </div>
 
-</div>
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
