@@ -13,6 +13,7 @@ permalink: /team/
 <!-- Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors). -->
 
 ## Staff
+<div class="row">
 <div class="col-sm-6 clearfix">
     <img src="/images/teampic/ShengbaoSuo.jpg" class="img-responsive" width="20%" style="float: left" />
     <h4>Shengbao Suo</h4>
@@ -24,7 +25,7 @@ permalink: /team/
   <li> Postdoc in Department of Data Sciences at Dana-Farber Cancer Institute and Department of Biostatistics at Harvard School of Public Health, USA </li>
   </ul>
   </div>
-
+  </div>
 
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
