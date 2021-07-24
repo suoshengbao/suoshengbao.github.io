@@ -43,12 +43,12 @@ permalink: /team/
     <tr>
       <td>
         2019 Postdoc, Dana-Farber Cancer Institute and Harvard School of Public Health
-      </ul></td>
+      </td>
     </tr>
     <tr>
       <td>
         2017 Ph. D., CAS-MPG Partner Institute for Computational Biology, Chinese Academy of Sciences
-      </ul></td>
+      </td>
     </tr>
   </tbody>
 </table>
