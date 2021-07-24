@@ -1,5 +1,5 @@
 ---
-title: "Suo - Publications"
+title: "SuoLab - Publications"
 layout: gridlay
 excerpt: "SuoLab -- Publications."
 sitemap: false
