@@ -14,7 +14,7 @@ permalink: /team/
 
 ## Staff
 <div class="col-sm-6 clearfix">
-    <p><img src="/images/teampic/ShengbaoSuo.jpg" class="img-responsive" width="20%" style="float: left" /></p>
+    <img src="/images/teampic/ShengbaoSuo.jpg" class="img-responsive" width="20%" style="float: left" />
     <h4>Shengbao Suo</h4>
     <p><i>Principal Investigator<i></i></i></p>
     <ul style="overflow: hidden">
