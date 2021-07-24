@@ -13,9 +13,9 @@ permalink: /team/
 <!-- Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors). -->
 
 ## Staff
-<div class="col-sm-6 clearfix">
+<div class="col-sm-6" style="padding-left: 1px;">
 <div class="well"  style="height: 300px; width: 1000px; padding-left: 5px;">
-<img src="/images/teampic/ShengbaoSuo.jpg" class="img-responsive" width="20%" style="float: left" />
+<img src="/images/teampic/ShengbaoSuo.jpg" class="img-responsive" width="15%" style="float: left" />
 <h4>  Shengbao Suo</h4>
 <p><i>  Principal Investigator<i></p>
 <p></p>
