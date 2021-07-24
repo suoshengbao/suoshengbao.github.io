@@ -71,12 +71,12 @@
 #   education1: Leidse instrumentmakers School
 #   education2: Associate degree Mechanical Engineering, Hogeschool Arnhem Nijmegen
  
-# - name: "This could be you !"
-#   photo: dummy.png
-#   info: See <a href="https://suoshengbao.github.io/positions/">Positions</a> for more info.
-#   email: 
-#   number_educ: 0
-#   education1:  
-#   education2:  
-#   education3: 
-#   education4:  
+- name: "This could be you !"
+  photo: dummy.png
+  info: See <a href="https://suoshengbao.github.io/positions/">Positions</a> for more info.
+  email: 
+  number_educ: 1
+  education1:  XX
+  education2:  
+  education3: 
+  education4:  

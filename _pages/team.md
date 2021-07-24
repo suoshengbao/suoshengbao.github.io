@@ -36,33 +36,14 @@ permalink: /team/
 </ul>
 </div>
 </div>
-
-<div style="padding-left: 0px; display:inline-block;margin-top:-10px;">
-<div class="well"  style="height: 150px; width: 945px">
-<img src="/images/teampic/dummy.png" width="10%" style="float: left;"/>
-<h5><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This could be you!<strong></h5>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>XX</i></p>
-<ul style="list-style-type:square; overflow: hidden">
-<li>XX</li>
-</ul>
-</div>
-</div>
-
-{% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
-{% assign even_odd = number_printed | modulo: 2 %}
-
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
-
-<div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="20%" style="float: left" />
-  <h4>{{ member.name }}</h4>
-  <p><i>{{ member.info }}<i></p>
-  <ul style="overflow: hidden">
-  
+<div style="padding-left: 0px; display:inline-block;margin-top:-10px;">
+  <div class="well"  style="height: 150px; width: 945px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="10%" style="float: left" />
+  <h5><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{{ member.name }}<strong></h5>
+  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>{{ member.info }}</i></p>
+  <ul style="list-style-type:square; overflow: hidden">
   {% if member.number_educ == 1 %}
   <li> {{ member.education1 }} </li>
   {% endif %}
@@ -84,30 +65,12 @@ permalink: /team/
   <li> {{ member.education3 }} </li>
   <li> {{ member.education4 }} </li>
   {% endif %}
- 
-  {% if member.number_educ == 5 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  <li> {{ member.education5 }} </li>
-  {% endif %}
   
   </ul>
 </div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
 </div>
-{% endif %}
 
 {% endfor %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
 
 
 
