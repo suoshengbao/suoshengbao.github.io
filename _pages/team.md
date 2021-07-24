@@ -26,6 +26,33 @@ permalink: /team/
 </div>
 </div>
 
+<table width="950px" border="0">
+  <tbody>
+    <tr>
+      <td width="54" rowspan="5">&nbsp;</td>
+      <td width="265"><h5><strong>Shengbao Suo</strong></h5></td>
+    </tr>
+    <tr>
+      <td><em>Principal Investigator</em></td>
+    </tr>
+    <tr>
+      <td><ul style="list-style-type:square">
+        <li>2021  Postdoc, Dana-Farber Cancer Institute and Harvard Medical School</li>
+      </ul></td>
+    </tr>
+    <tr>
+      <td><ul style="list-style-type:square">
+        <li>2019  Postdoc, Dana-Farber Cancer Institute and Harvard School of Public Health</li>
+      </ul></td>
+    </tr>
+    <tr>
+      <td><ul style="list-style-type:square">
+        <li>2017  Ph. D., CAS-MPG Partner Institute for Computational Biology, Chinese Academy of Sciences</li>
+      </ul></td>
+    </tr>
+  </tbody>
+</table>
+
 <!-- <div style="padding-left: 2px; position: relative; height: 10px; right: 0;  left: 0; ">
 <div class="well"  style="height: 160px; width: 960px">
 <img src="/images/teampic/dummy.png" width="10%" style="float: left;"/>
