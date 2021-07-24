@@ -15,10 +15,10 @@ permalink: /team/
 ## Staff
 <div class="col-sm-6 clearfix" style="padding-left: 1px;">
 <div class="well"  style="height: 200px; width: 960px">
-<img src="/images/teampic/ShengbaoSuo.jpg" class="img-responsive" width="10%" style="float: left"/>
+<img src="/images/teampic/ShengbaoSuo.jpg" class="img-responsive" width="15%" style="float: left"/>
 <h4>- Shengbao Suo</h4>
 <i>- Principal Investigator<i>
-<ul style="list-style-type:square; padding-left: 1px">
+<ul style="list-style-type:square; overflow: hidden">
 <li>2021   Postdoc, Dana-Farber Cancer Institute and Harvard Medical School</li>
 <li>2020   Postdoc, Dana-Farber Cancer Institute and Harvard Medical School</li>
 <li>2019   Postdoc, Dana-Farber Cancer Institute and Harvard School of Public Health</li>
