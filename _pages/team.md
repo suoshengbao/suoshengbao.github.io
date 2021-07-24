@@ -18,12 +18,10 @@ permalink: /team/
 <img src="/images/teampic/ShengbaoSuo.jpg" class="img-responsive" width="10%" style="float: left"/>
 <h4>Shengbao Suo</h4>
 <p><i>Principal Investigator<i></p>
-<p></p>
-<p></p>
-- Postdoc in Department of Cancer Immunology and Virology at Dana-Farber Cancer Institute and Harvard Medical School
-- Postdoc in Department of Pediatric Oncology at Dana-Farber Cancer Institute and Harvard Medical School
-- Postdoc in Department of Data Sciences at Dana-Farber Cancer Institute and Harvard School of Public Health
-- Ph. D. in CAS-MPG Partner Institute for Computational Biology, Chinese Academy of Sciences
+- Postdoc, Department of Cancer Immunology and Virology, Dana-Farber Cancer Institute and Harvard Medical School
+- Postdoc, Department of Pediatric Oncology, Dana-Farber Cancer Institute and Harvard Medical School
+- Postdoc, Department of Data Sciences, Dana-Farber Cancer Institute and Harvard School of Public Health
+- Ph. D., CAS-MPG Partner Institute for Computational Biology, Chinese Academy of Sciences
 </div>
 </div>
 
