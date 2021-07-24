@@ -6,13 +6,13 @@ sitemap: false
 permalink: /team/
 ---
 
-# Group Members
+## Group Members
 
  **We are  looking for passionate Associate Investigator, Postdoc, Assitent Investigator and Research Assistant/Lab manager to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/positions) **!**
 
 <!-- Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors). -->
 
-## Staff
+### Staff
 <div style="padding-left: 0px;">
 <div class="well"  style="height: 150px; width: 945px">
 <img src="/images/teampic/ShengbaoSuo.jpg" width="10%" style="float: left;"/>
