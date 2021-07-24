@@ -19,14 +19,27 @@ permalink: /team/
 <h4>Shengbao Suo</h4>
 <i>Principal Investigator<i>
 <ul style="list-style-type:square">
-- 2021 Postdoc, Dana-Farber Cancer Institute and Harvard Medical School
-- 2020 Postdoc, Dana-Farber Cancer Institute and Harvard Medical School
-- 2019 Postdoc, Dana-Farber Cancer Institute and Harvard School of Public Health
-- 2017 Ph. D., CAS-MPG Partner Institute for Computational Biology, Chinese Academy of Sciences
+<li>2021 Postdoc, Dana-Farber Cancer Institute and Harvard Medical School</li>
+<li>2020 Postdoc, Dana-Farber Cancer Institute and Harvard Medical School</li>
+<li>2019 Postdoc, Dana-Farber Cancer Institute and Harvard School of Public Health</li>
+<li>2017 Ph. D., CAS-MPG Partner Institute for Computational Biology, Chinese Academy of Sciences</li>
 </ul>
 </div>
 </div>
 
+<div class="col-sm-6 clearfix" style="padding-left: 1px;">
+<div class="well"  style="height: 300px; width: 960px">
+<img src="/images/teampic/ShengbaoSuo.jpg" class="img-responsive" width="10%" style="float: left"/>
+<h4>Shengbao Suo</h4>
+<i>Principal Investigator<i>
+<ul style="list-style-type:square">
+<li>2021 Postdoc, Dana-Farber Cancer Institute and Harvard Medical School</li>
+<li>2020 Postdoc, Dana-Farber Cancer Institute and Harvard Medical School</li>
+<li>2019 Postdoc, Dana-Farber Cancer Institute and Harvard School of Public Health</li>
+<li>2017 Ph. D., CAS-MPG Partner Institute for Computational Biology, Chinese Academy of Sciences</li>
+</ul>
+</div>
+</div>
 
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
