@@ -19,7 +19,7 @@
   
 - name: "This could be you !"
   photo: dummy.png
-  info: See <a href="https://suoshengbao.github.io/positions/">Positions</a> for more info.
+  info: See <a href="https://suoshengbao.github.io/positions">Positions</a> for more info.
   email: 
   number_educ: 0
   education1:  
