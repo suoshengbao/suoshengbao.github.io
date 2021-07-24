@@ -13,7 +13,7 @@ permalink: /team/
 <!-- Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors). -->
 
 ## Staff
-<div class="col-sm-6 clearfix" style="padding-left: 1px;">
+<div style="padding-left: 1px; position: absolute; height: 10px; bottom: 0; right: 0;  left: 0; ">
 <div class="well"  style="height: 160px; width: 960px">
 <img src="/images/teampic/ShengbaoSuo.jpg" width="10%" style="float: left;"/>
 <h5><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Shengbao Suo<strong></h5>
@@ -26,8 +26,8 @@ permalink: /team/
 </div>
 </div>
 
-<div style="padding-left: 1px; position: absolute; height: 10px; border: solid; bottom: 0; right: 0;  left: 0; ">
-<div class="well"  style="height: 180px; width: 960px">
+<div style="padding-left: 1px; position: absolute; height: 10px; bottom: 0; right: 0;  left: 0; ">
+<div class="well"  style="height: 160px; width: 960px">
 <img src="/images/teampic/dummy.png" width="10%" style="float: left;"/>
 <h5><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;XXX<strong></h5>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>XXX</i></p>
