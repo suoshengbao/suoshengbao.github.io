@@ -2,7 +2,7 @@
 title: "SuoLab - Contact"
 layout: piclay
 excerpt: "SuoLab -- Contact"
-permalink: /pictures/
+permalink: /contact/
 ---
 
 ## Contact information:
