@@ -90,6 +90,26 @@
     display: PLoS ONE, 2012, 7( 11):e49108
   highlight: 0
 
+- title: Single-nucleus transcriptome analysis of human brain immune response in patients with severe COVID-19
+  image: dummy.png
+  description: ""
+  authors:
+    John F Fullard, Hao-Chih Lee, Georgios Voloudakis, <b>Shengbao Suo</b>, Behnam Javidfar, Zhiping Shao, Cyril Peter, Wen Zhang, Shan Jiang, André Corvelo, Heather Wargnier, Emma Woodoff-Leith, Dushyant P Purohit, Sadhna Ahuja, Nadejda M Tsankova, Nathalie Jette, Gabriel E Hoffman, Schahram Akbarian, Mary Fowkes, John F Crary, Guo-Cheng Yuan, Panos Roussos
+  link:
+    url: https://doi.org/10.1186/s13073-021-00933-8
+    display: Genome Medicine, 2021, 13(1):118
+  highlight: 0
+
+- title: Massively parallel in vivo CRISPR screening identifies RNF20/40 as epigenetic regulators of cardiomyocyte maturation
+  image: dummy.png
+  description: ""
+  authors:
+    Nathan J VanDusen, Julianna Y Lee, Weiliang Gu, Catalina E Butler, Isha Sethi, Yanjiang Zheng, Justin S King, Pingzhu Zhou, <b>Shengbao Suo</b>, Yuxuan Guo, Qing Ma, Guo-Cheng Yuan, William William Pu
+  link:
+    url: https://doi.org/10.1038/s41467-021-24743-z
+    display: Nature Communications, 2021, 12(1):4442
+  highlight: 0
+
 - title: Immunosuppressive Myeloid Cells Induce Nitric Oxide–Dependent DNA Damage and p53 Pathway Activation in CD8+ T Cells
   image: dummy.png
   description: ""
