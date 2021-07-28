@@ -1,14 +1,15 @@
 ---
-title: "Home"
+title: "SuoLab - Allnews"
 layout: textlay
-excerpt: "Suo Lab at BL."
+excerpt: "allnews"
 sitemap: false
-permalink: /allnews.html
+permalink: /allnews
 ---
 
 ## News
 
 {% for article in site.data.news %}
-<p>{{ article.date }} <br>
-<p>{{ article.headline }}<p>
+{{ article.date }}
+<!-- <p><em>{{ article.headline }}</em></p> -->
+<p>{{ article.headline }}</p>
 {% endfor %}
