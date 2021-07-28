@@ -7,7 +7,7 @@ permalink: /contact/
 
 ## Contact information:
 
-Address (Guangzhou International Bio island) : Building B2, 96 Xingdao South Road, Guangzhou International Bio Island , Haizhu District, Guangzhou, Guangdong, China
+Address (Guangzhou International Bio island): Building B2, 96 Xingdao South Road, Guangzhou International Bio Island , Haizhu District, Guangzhou, Guangdong, China
 Postcode: 510320
 Email: suo_shengbao@grmh-gdl.cn
 
