@@ -6,10 +6,13 @@ permalink: /contact/
 ---
 
 ## Contact information:
--
+
+Address (Guangzhou International Bio island) : Building B2, 96 Xingdao South Road, Guangzhou International Bio Island , Haizhu District, Guangzhou, Guangdong, China
+Postcode: 510320
+Email: suo_shengbao@grmh-gdl.cn
 
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1285.2171869293072!2d-71.10911168847278!3d42.33730459279126!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e3798de681fccd%3A0x28872ef16d5e4f18!2sDana-Farber%20Cancer%20Institute!5e0!3m2!1sen!2sus!4v1620861498884!5m2!1sen!2sus" width="960" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10582.542020626372!2d113.37313457443025!3d23.06594392463475!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x34025549978de655%3A0xbfef76e0d9d7b9!2z5bm_5bee55Sf54mp5bKb5Zu96ZmF5YWs5a-T!5e0!3m2!1sen!2sus!4v1627436534201!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 <!-- ## Leiden
 
