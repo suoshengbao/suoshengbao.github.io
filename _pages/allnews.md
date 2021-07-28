@@ -1,6 +1,6 @@
 ---
 title: "SuoLab - Allnews"
-layout: textlay
+layout: allnews
 excerpt: "allnews"
 sitemap: false
 permalink: /allnews
