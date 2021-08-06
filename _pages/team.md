@@ -8,7 +8,7 @@ permalink: /team/
 
 ## Group Members
 
- **We are  looking for passionate Associate Investigator, Postdoc, Assitent Investigator and Research Assistant/Lab manager to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/positions) **!**
+ **We are  looking for passionate Associate Investigator, Postdoc, Assistant Investigator and Research Assistant/Lab manager to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/positions) **!**
 
 <!-- Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors). -->
 
