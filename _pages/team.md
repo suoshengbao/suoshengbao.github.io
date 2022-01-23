@@ -19,9 +19,9 @@ permalink: /team/
 <h5><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Shengbao Suo<strong></h5>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Principal Investigator</i></p>
 <ul style="list-style-type:square; overflow: hidden">
-<li>2021&nbsp;&nbsp;Postdoc, Dana-Farber Cancer Institute and Harvard Medical School</li>
-<li>2019&nbsp;&nbsp;Postdoc, Dana-Farber Cancer Institute and Harvard School of Public Health</li>
-<li>2017&nbsp;&nbsp;Ph. D., CAS-MPG Partner Institute for Computational Biology, Chinese Academy of Sciences</li>
+<li>2019-2021&nbsp;&nbsp;Postdoc, Dana-Farber Cancer Institute and Harvard Medical School</li>
+<li>2017-2019&nbsp;&nbsp;Postdoc, Dana-Farber Cancer Institute and Harvard School of Public Health</li>
+<li>2013-2017&nbsp;&nbsp;Ph. D., CAS-MPG Partner Institute for Computational Biology, Chinese Academy of Sciences</li>
 </ul>
 </div>
 </div>

@@ -12,9 +12,21 @@
   info: Research Assistant
   email: 
   number_educ: 2
-  education1: 2012 B.S., Qiqihar University
-  education2: 2015 Master, South China Agricultural University
-  
+  education1: 2012-2015 Master, South China Agricultural University 
+  education2: 2008-2012 B.S., Qiqihar University
+
+
+- name: Bingbing Xie
+  photo: unknown.png
+  info: Assistant Investigator
+  email: 
+  number_educ: 4
+  education1: 2020-2021 Bioinformatician, Zhongshan Ophthalmic Center, Sun Yat-sen University
+  education2: 2019-2019 Visiting scholar, VIB-KU Leuven Center for Cancer Biology
+  education3: 2018-2020 Postdoctoral Fellow, Zhongshan Ophthalmic Center, Sun Yat-sen University
+  education3: 2013-2018 Ph.D, Beijing Institute of Genomics, Chinese Academy of Sciences
+
+
 - name: "This could be you !"
   photo: unknown.png
   info: See <a href="https://suoshengbao.github.io/positions">Positions</a> for more info.
