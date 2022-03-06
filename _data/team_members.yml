@@ -9,7 +9,7 @@
   
 - name: Rui Liu
   photo: RuiLiu.jpeg
-  info: Research Assistant
+  info: Research Assistant/Lab manager
   email: 
   number_educ: 2
   education1: 2012-2015 Master, South China Agricultural University 
@@ -26,6 +26,30 @@
   education2: 2018-2020 Postdoctoral Fellow, Zhongshan Ophthalmic Center, Sun Yat-sen University
   education3: 2013-2018 Ph.D, Beijing Institute of Genomics, Chinese Academy of Sciences
 
+- name: Yaoshen Li
+  photo: YaoshenLi.jpeg
+  info: Research Assistant
+  email: 
+  number_educ: 3
+  education1: 2016-2016 Visiting Scholar, Purdue University
+  education2: 2014-2016 Master, Shanxi Agricultural University
+  education3: 2010-2014 B.S., Shanxi Agricultural University
+
+- name: Yanping Lu
+  photo: YanpingLu.jpeg
+  info: Graduate student
+  email: 
+  number_educ: 2
+  education1: 2021-present Master candidate, Yunnan University
+  education2: 2017-2021 B.S., Qujing Normal University
+
+- name: Yumeng Yang
+  photo: YumengYang.jpeg
+  info: Graduate student
+  email: 
+  number_educ: 2
+  education1: 2021-present Master candidate, Yunnan University
+  education2: 2017-2021 B.S., Hainan University
 
 - name: "This could be you !"
   photo: unknown.png

@@ -7,9 +7,19 @@
 #  education2:  
 #  education3: 
 #  education4:  
-- name: XX
-  photo: XX.jpg
-  info: XX
-  email: XX@XX
-  number_educ: 0
-  education1:
+
+- name: Yanping Lu
+  photo: YanpingLu.jpeg
+  info: Graduate student
+  email: 
+  number_educ: 2
+  education1: 2021-present Master candidate, Yunnan University
+  education2: 2017-2021 B.S., Qujing Normal University
+
+- name: Yumeng Yang
+  photo: YumengYang.jpeg
+  info: Graduate student
+  email: 
+  number_educ: 2
+  education1: 2021-present Master candidate, Yunnan University
+  education2: 2017-2021 B.S., Hainan University

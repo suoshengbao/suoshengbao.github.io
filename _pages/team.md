@@ -12,7 +12,7 @@ permalink: /team/
 
 <!-- Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors). -->
 
-### Staff
+### Staff and Students
 <div style="padding-left: 0px;">
 <div class="well"  style="height: 150px; width: 945px">
 <img src="/images/teampic/ShengbaoSuo.jpg" width="10%" style="float: left;"/>
@@ -60,7 +60,7 @@ permalink: /team/
 </div>
 {% endfor %}
 
-<!-- ## Master and Bachelor Students 
+<!-- ### Graduate Students 
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
@@ -96,7 +96,6 @@ permalink: /team/
   <li> {{ member.education3 }} </li>
   <li> {{ member.education4 }} </li>
   {% endif %}
-  
   </ul>
 </div>
 
