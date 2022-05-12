@@ -14,7 +14,7 @@ permalink: /team/
 
 ### Staff and Students
 <div style="padding-left: 0px;">
-<div class="well"  style="height: 160px; width: 945px">
+<div class="well"  style="height: 180px; width: 945px">
 <img src="/images/teampic/ShengbaoSuo.jpg" width="10%" style="float: left;"/>
 <h5><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Shengbao Suo<strong></h5>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Principal Investigator</i></p>
@@ -29,7 +29,7 @@ permalink: /team/
 
 {% for member in site.data.team_members %}
 <div style="padding-left: 0px; display:inline-block;margin-top:-10px;">
-  <div class="well"  style="height: 160px; width: 945px">
+  <div class="well"  style="height: 180px; width: 945px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="10%" style="float: left" />
   <h5><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{{ member.name }}<strong></h5>
   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>{{ member.info }}</i></p>
