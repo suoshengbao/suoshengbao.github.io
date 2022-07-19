@@ -75,8 +75,8 @@
   info: intern(student)
   email: 
   number_educ: 2
-  education1: 2019-present Master,Sun Yat-Sen University
-  education2: 2013-2019 B.S.,Shenzhen University
+  education1: 2019-present Master, Sun Yat-Sen University
+  education2: 2013-2019 B.S., Shenzhen University
 
 - name: "This could be you !"
   photo: unknown.png
