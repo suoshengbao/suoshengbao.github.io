@@ -62,28 +62,28 @@
   education1: 2021-present Master candidate, Yunnan University
   education2: 2017-2021 B.S., Qujing Normal University
 
-# - name: Yumeng Yang
-#   photo: YumengYang.jpeg
-#   info: Graduate student
-#   email: 
-#   number_educ: 2
-#   education1: 2021-present Master candidate, Yunnan University
-#   education2: 2017-2021 B.S., Hainan University
+- name: Yumeng Yang
+  photo: YumengYang.jpeg
+  info: Graduate student
+  email: 
+  number_educ: 2
+  education1: 2021-present Master candidate, Yunnan University
+  education2: 2017-2021 B.S., Hainan University
 
-#   - name: Junxian He
-#   photo: JunxianHe.png
-#   info: intern(student)
-#   email: 
-#   number_educ: 2
-#   education1: 2019-present Master,Sun Yat-Sen University
-#   education2: 2013-2019 B.S.,Shenzhen University
+  - name: Junxian He
+  photo: JunxianHe.png
+  info: intern(student)
+  email: 
+  number_educ: 2
+  education1: 2019-present Master,Sun Yat-Sen University
+  education2: 2013-2019 B.S.,Shenzhen University
 
-# - name: "This could be you !"
-#   photo: unknown.png
-#   info: See <a href="https://suoshengbao.github.io/positions">Positions</a> for more info.
-#   email: 
-#   number_educ: 0
-#   education1:  
-#   education2:  
-#   education3: 
-#   education4:  
+- name: "This could be you !"
+  photo: unknown.png
+  info: See <a href="https://suoshengbao.github.io/positions">Positions</a> for more info.
+  email: 
+  number_educ: 0
+  education1:  
+  education2:  
+  education3: 
+  education4:  
