@@ -1,3 +1,15 @@
+
+- title: Tissue-resident memory and circulating T cells are early responders to pre-surgical cancer immunotherapy
+  image: Neoadjuvant.jpg
+  description: 
+    Neoadjuvant immune checkpoint blockade has shown promising clinical activity. Here, we characterized early kinetics in tumor-infiltrating and circulating immune cells in oral cancer patients treated with neoadjuvant anti-PD-1 or anti-PD-1/CTLA-4 in a clinical trial (NCT02919683). Tumor-infiltrating CD8 T cells that clonally expanded during immunotherapy expressed elevated tissue-resident memory and cytotoxicity programs, which were already active prior to therapy, supporting the capacity for rapid response. Systematic target discovery revealed that treatment-expanded tumor T cell clones in responding patients recognized several self-antigens, including the cancer-specific antigen MAGEA1. The frequency of activated blood CD8 T cells, notably pre-treatment PD-1-positive KLRG1-negative T cells, was strongly associated with intra-tumoral pathological response. These results demonstrate how neoadjuvant checkpoint blockade induces local and systemic tumor immunity.
+  authors:
+    Adrienne M. Luoma^; **Shengbao Suo**^#; YifanWang; LaurenGunasti; Caroline B.M.Porter; NancyNabilsi; JennyTadros; Andrew P.Ferretti; SidaLiao; CaganGurer; Yu-HuiChen; ShanaCriscitiello; Cora A.Ricker; DanielleDionne; OritRozenblatt-Rosen; RavindraUppaluri; Robert I.Haddad; OrrAshenberg; …Kai W.Wucherpfennig#
+  link: 
+    url: https://doi.org/10.1016/j.cell.2022.06.018
+    display: Cell, In Press
+  highlight: 1
+  
 - title: Molecular pathways of colon inflammation induced by cancer immunotherapy
   image: colitis.png
   description: 
@@ -18,7 +30,7 @@
   link:
     url: https://www.nature.com/articles/s41586-019-1469-8
     display: Nature, 2019, 572(7770):528-532
-  highlight: 1
+  highlight: 0
 
 - title: Revealing the critical regulators of cell identity in the mouse cell atlas
   image: dummy.png
