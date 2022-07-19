@@ -8,7 +8,7 @@
 #   education3: 2019 &nbsp;&nbsp; Ph. D., CAS-MPG Partner Institute for Computational Biology, Chinese Academy of Sciences
   
 - name: Rui Liu
-  photo: RuiLiu.jpeg
+  photo: RuiLiu.jpg
   info: Research Assistant/Lab manager
   email: 
   number_educ: 2
@@ -69,6 +69,14 @@
   number_educ: 2
   education1: 2021-present Master candidate, Yunnan University
   education2: 2017-2021 B.S., Hainan University
+
+  - name: Junxian He
+  photo: JunxianHe.png
+  info: intern (student)
+  email: 
+  number_educ: 2
+  education1: 2019-present Master,Sun Yat-Sen University
+  education2: 2013-2019 B.S.,Shenzhen University
 
 - name: "This could be you !"
   photo: unknown.png
