@@ -3,7 +3,7 @@
   image: dummy.png
   description: ""
   authors:
-    Renying Wang; Peijing Zhang#; Jingjing Wang; Lifeng Ma; Weigao E; <b>ShengBao Suo</b>; Mengmeng Jiang; Jiaqi Li; Haide Chen; Huiyu Sun; Lijiang Fei; Ziming Zhou; Yincong Zhou; Yao Chen; Weiqi Zhang; Xinru Wang; Yuqing Mei; Zhongyi Sun; Chengxuan Yu; Jikai Shao; Yuting Fu; Yanyu Xiao; Fang Ye; Xing Fang; Hanyu Wu; Qile Guo; Xiunan Fang; Xia Li; Xianzhi Gao; Dan Wang,; Peng-Fei Xu; Rui Zeng; Gang Xu; Lijun Zhu; Lie Wang; Jing Qu; Dan Zhang; Hongwei Ouyang; He Huang; Ming Chen; Shyh-Chang NG#; Guang-Hui Liu#; Guo-Cheng Yuan#; Guoji Guo#; Xiaoping Han#  
+    Renying Wang^; Peijing Zhang^#; Jingjing Wang^; Lifeng Ma^; Weigao E^; <b>ShengBao Suo</b>^; Mengmeng Jiang^; Jiaqi Li^; Haide Chen; Huiyu Sun; Lijiang Fei; Ziming Zhou; Yincong Zhou; Yao Chen; Weiqi Zhang; Xinru Wang; Yuqing Mei; Zhongyi Sun; Chengxuan Yu; Jikai Shao; Yuting Fu; Yanyu Xiao; Fang Ye; Xing Fang; Hanyu Wu; Qile Guo; Xiunan Fang; Xia Li; Xianzhi Gao; Dan Wang; Peng-Fei Xu; Rui Zeng; Gang Xu; Lijun Zhu; Lie Wang; Jing Qu; Dan Zhang; Hongwei Ouyang; He Huang; Ming Chen; Shyh-Chang NG#; Guang-Hui Liu#; Guo-Cheng Yuan#; Guoji Guo#; Xiaoping Han#  
   link:
     url: https://doi.org/10.1093/nar/gkac633
     display: Nucleic Acids Research, 2022, gkac633
@@ -17,7 +17,7 @@
     Adrienne M. Luoma^; **Shengbao Suo**^#; Yifan Wang; Lauren Gunasti; Caroline B.M. Porter; Nancy Nabilsi; Jenny Tadros; Andrew P. Ferretti; Sida Liao; Cagan Gurer; Yu-Hui Chen; Shana Criscitiello; Cora A. Ricker; Danielle Dionne; Orit Rozenblatt-Rosen; Ravindra Uppaluri; Robert I. Haddad; Orr Ashenberg; Aviv Regev; Eliezer M. Van Allen; Gavin MacBeath; Jonathan D. Schoenfeld#; Kai W. Wucherpfennig#
   link: 
     url: https://doi.org/10.1016/j.cell.2022.06.018
-    display: Cell, 2022，185(16):2918-2935
+    display: Cell, 2022, 185(16):2918-2935
   highlight: 1
   
 - title: Molecular pathways of colon inflammation induced by cancer immunotherapy
