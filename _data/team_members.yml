@@ -78,6 +78,24 @@
   education1: 2019-present Master, Sun Yat-Sen University
   education2: 2013-2019 B.S., Shenzhen University
 
+- name: Meilin Mu
+  photo: MeilinMu.ipg
+  info: PhD student 
+  email: 
+  number_educ: 3
+  education1: 2022-present Ph.D candidate, Huazhong University of Science and Technology
+  education2: 2019-2022 Master, Ludong University
+  education3: 2015-2019 B.S., Southwest Minzu University
+
+- name: Wenjia Li
+  photo: WenjiaLi.ipg
+  info: PhD student
+  email: 
+  number_educ: 3
+  education1: 2022-present phD candidate, Guangzhou Medical University
+  education2: 2015-2018 Master, CAS-Center for Excellence in Molecular Plant Science, Chinese Academy of Sciences
+  education3: 2011-2015 B.S., Qufu Normal University
+
 - name: "This could be you !"
   photo: unknown.png
   info: See <a href="https://suoshengbao.github.io/positions">Positions</a> for more info.
