@@ -103,6 +103,15 @@
   number_educ: 2
   education1: 2020-present Ph.D candidate, Guangzhou Institutes of Biomedicine and Health, Chinese Academy of Sciences
   education2: 2016-2020 B.S., Nanjing Medical University
+
+  - name: Lingfeng Liu
+  photo: LingfengLiu.jpg
+  info: Research Assistant
+  email: 
+  number_educ: 2
+  education1: 2019-2022 Master, College of Biophotonics, South China Normal University
+  education2: 2015-2019 B.S., Basic Forestry & Proteomics Research Center, Fujian Agriculture and Forestry University
+  
   
 - name: "This could be you !"
   photo: unknown.png
