@@ -105,6 +105,22 @@
   education1: 2019-2022 Master, College of Biophotonics, South China Normal University
   education2: 2015-2019 B.S., Basic Forestry & Proteomics Research Center, Fujian Agriculture and Forestry University
   
+- name: Jingxin Liu
+  photo: JingxinLiu.png
+  info: Postdoctoral Fellow
+  email: 
+  number_educ: 3
+  education1: 2019-2022 Post-doctor, The Third Affiliated Hospital of Sun Yat-sen University
+  education2: 2016-2019 Associate Research Fellow, Sun Yat-sen School of Medicine, Sun Yat-sen University 
+  education3: 2010-2016 Master & Doctor, University of Science and Technology of China  
+ 
+- name: MinchunChen
+  photo: MinchunChen.png 
+  info: Research Assistant
+  email: 
+  number_educ: 2
+  education1: 2015-2018 MS, College of Life Sciences and Oceanography, Shenzhen University
+  education2: 2011-2015  BS, Henry Fok college of Life Science，Shaoguan University
   
 - name: "This could be you !"
   photo: unknown.png
