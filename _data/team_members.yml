@@ -88,11 +88,12 @@
 
 - name: Lingfeng Liu
   photo: LingfengLiu.jpg
-  info: Research Assistant
+  info: Ph.D student
   email: 
-  number_educ: 2
-  education1: 2019-2022 Master, College of Biophotonics, South China Normal University
-  education2: 2015-2019 B.S., Basic Forestry & Proteomics Research Center, Fujian Agriculture and Forestry University
+  number_educ: 3
+  education1: 2023-present Ph.D candidate, Huazhong University of Science and Technology
+  education2: 2019-2022 Master, College of Biophotonics, South China Normal University
+  education3: 2015-2019 B.S., Basic Forestry & Proteomics Research Center, Fujian Agriculture and Forestry University
   
 - name: Jingxin Liu
   photo: JingxinLiu.png
@@ -118,7 +119,33 @@
   number_educ: 2
   education1: 2020-2023 Master, Wuhan Institute of Virology, University of Chinese Academy of Sciences
   education2: 2016-2020 B.E., School of Life and Health Sciences, Hunan University of Science and Technology
-  
+
+- name: MengXu
+  photo: MengXu.jpg
+  info: Ph.D student
+  email: 
+  number_educ: 3
+  education1: 2023-present Ph.D candidate, Guangzhou Institutes of Biomedicine and Health, Chinese Academy of Sciences
+  education2: 2020-2023 Master, Wuhan Institute of Virology, University of Chinese Academy of Sciences
+  education3: 2016-2020 B.S., Tianjin Medical University 
+
+- name: JiaLiu
+  photo: JiaLiu.jpg
+  info: Research Assistant
+  email: 
+  number_educ: 2
+  education1: 2020-2023 Master, School of Medicine, Southern University of Science and Technology
+  education2: 2016-2020 B.S., Marine College, Shandong University
+
+- name: ErgangWen
+  photo: ErgangWen.jpg
+  info: Research Assistant
+  email: 
+  number_educ: 2
+  education1: 2020-2023 Master, Xi'an jiaotong university
+  education2: 2016-2020 B.S., Yanbian university
+
+
 - name: "This could be you !"
   photo: unknown.png
   info: See <a href="https://suoshengbao.github.io/positions">Positions</a> for more info.
