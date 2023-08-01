@@ -1,3 +1,12 @@
+- title: Three-dimensional molecular architecture of mouse organogenesis
+  image: dummy.png
+  description: ""
+  authors:
+    Fangfang Qu^; Wenjia Li^; Jian Xu^; Ruifang Zhang; Jincan Ke; Xiaodie Ren; Xiaogao Meng; Lexin Qin; Jingna Zhang; Fangru Lu; Xin Zhou; Xi Luo; Zhen Zhang; Minhan Wang; Guangming Wu; Duanqing Pei; Jiekai Chen; Guizhong Cui#; Shengbao Suo#; Guangdun Peng#
+  link:
+    url: https://doi.org/10.1038/s41467-023-40155-7
+    display: Nature Communications, 2023, 14:4599
+  highlight: 0
 
 - title: Construction of a cross-species cell landscape at single-cell level
   image: dummy.png
@@ -6,7 +15,7 @@
     Renying Wang^; Peijing Zhang^#; Jingjing Wang^; Lifeng Ma^; Weigao E^; <b>ShengBao Suo</b>^; Mengmeng Jiang^; Jiaqi Li^; Haide Chen; Huiyu Sun; Lijiang Fei; Ziming Zhou; Yincong Zhou; Yao Chen; Weiqi Zhang; Xinru Wang; Yuqing Mei; Zhongyi Sun; Chengxuan Yu; Jikai Shao; Yuting Fu; Yanyu Xiao; Fang Ye; Xing Fang; Hanyu Wu; Qile Guo; Xiunan Fang; Xia Li; Xianzhi Gao; Dan Wang; Peng-Fei Xu; Rui Zeng; Gang Xu; Lijun Zhu; Lie Wang; Jing Qu; Dan Zhang; Hongwei Ouyang; He Huang; Ming Chen; Shyh-Chang NG#; Guang-Hui Liu#; Guo-Cheng Yuan#; Guoji Guo#; Xiaoping Han#  
   link:
     url: https://doi.org/10.1093/nar/gkac633
-    display: Nucleic Acids Research, 2022, gkac633
+    display: Nucleic Acids Research, 2023, 51(2):501-516
   highlight: 0
   
 - title: Tissue-resident memory and circulating T cells are early responders to pre-surgical cancer immunotherapy
