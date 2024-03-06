@@ -104,15 +104,6 @@
   education2: 2016-2019 Associate Research Fellow, Sun Yat-sen School of Medicine, Sun Yat-sen University 
   education3: 2010-2016 Master & Doctor, University of Science and Technology of China  
 
-
-- name: LihuiDai
-  photo: LihuiDai.jpg
-  info: Research Assistant
-  email: 
-  number_educ: 2
-  education1: 2020-2023 Master, Wuhan Institute of Virology, University of Chinese Academy of Sciences
-  education2: 2016-2020 B.E., School of Life and Health Sciences, Hunan University of Science and Technology
-
 - name: MengXu
   photo: MengXu.jpg
   info: Ph.D student
@@ -145,6 +136,14 @@
   number_educ: 2
   education1: 2020-2023 Master in Surgery,  Six affiliated hospital，Sun-Yat sen University
   education2: 2014-2020 M.D.,Clinical Medical College, Guangdong Medicial University
+
+- name: Yuyan Wang
+  photo: YuyanWang.png
+  info: Postdoctoral Fellow
+  email: 
+  number_educ: 1
+  education1: 2015-2023 Master & Doctor, Dalian University of Technology
+  
 
 - name: "This could be you !"
   photo: unknown.png
