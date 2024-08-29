@@ -143,7 +143,14 @@
   email: 
   number_educ: 1
   education1: 2015-2023 Master & Doctor, Dalian University of Technology
-  
+
+- name: XiaoranZhang
+  photo: XiaoranZhang.jpg
+  info: Research Assistant
+  email: 
+  number_educ: 2
+  education1: 2013-2018 Master, CAS-MPG Partner Institute for Computational Biology, SIBS, CAS, Shanghai
+  education2: 2008-2013 B.S., Southwest Jiaotong University  
 
 - name: "This could be you !"
   photo: unknown.png
