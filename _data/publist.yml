@@ -12,7 +12,7 @@
   image: dummy.png
   description: ""
   authors:
-    Jiayin Peng^; Lili Han^; Biao Liu^; Jiawen Song; Yuang Wang; Kunpeng Wang; Qian Guo; XinYan Liu; Yu Li; Jujin Zhang; Wenqing Wu; Sheng Li; Xin Fu; Cheng-le Zhuang; Weikang Zhang; **Shengbao Suo**^; Ping Hu#; Yun Zhao#
+    Jiayin Peng^; Lili Han^; Biao Liu^; Jiawen Song; Yuang Wang; Kunpeng Wang; Qian Guo; XinYan Liu; Yu Li; Jujin Zhang; Wenqing Wu; Sheng Li; Xin Fu; Cheng-le Zhuang; Weikang Zhang; **Shengbao Suo**; Ping Hu#; Yun Zhao#
   link:
     url: https://doi.org/10.1038/s41467-023-42837-8
     display: Nature Communications, 2023, 14:6993
@@ -48,98 +48,6 @@
     url: https://doi.org/10.1016/j.cell.2022.06.018
     display: Cell, 2022, 185(16):2918-2935
   highlight: 1
-  
-- title: Molecular pathways of colon inflammation induced by cancer immunotherapy
-  image: colitis.png
-  description: 
-    Checkpoint blockade with antibodies specific for the PD-1 and CTLA-4 inhibitory receptors can induce durable responses in a wide range of human cancers. However, the immunological mechanisms responsible for severe inflammatory side effects remain poorly understood. Here we report a comprehensive single-cell analysis of immune cell populations in colitis, a common and severe side effect of checkpoint blockade. We observed a striking accumulation of CD8 T cells with highly cytotoxic and proliferative states and no evidence of regulatory T cell depletion. T cell receptor (TCR) sequence analysis demonstrated that a substantial fraction of colitis-associated CD8 T cells originated from tissue-resident populations, explaining the frequently early onset of colitis symptoms following treatment initiation. Our analysis also identified cytokines, chemokines, and surface receptors that could serve as therapeutic targets for colitis and potentially other inflammatory side effects of checkpoint blockade.
-  authors:
-    Adrienne M. Luoma^; **Shengbao Suo**^; Hannah L. Williams; Tatyana Sharova; Keri Sullivan; Michael Manos; Peter Bowling; F. Stephen Hodi; Osama Rahma; Ryan J. Sullivan; Genevieve M. Boland; Jonathan A. Nowak; Stephanie K. Dougan; Michael Dougan#; Guo-Cheng Yuan; Kai W. Wucherpfennig#
-  link:
-    url: https://doi.org/10.1016/j.cell.2020.06.001
-    display: Cell, 2020, 182(3):655-671
-  highlight: 1
-
-- title: Molecular architecture of lineage allocation and tissue organization in early mouse embryo
-  image: embryo.png
-  description: 
-    During post-implantation development of the mouse embryo, descendants of the inner cell mass in the early epiblast transit from the naive to primed pluripotent state. Fate-mapping and lineage-analysis studies have revealed that cells in different regions of the germ layers acquire location-specific cell fates during gastrulation. However, a genome-wide molecular annotation of lineage segregation and tissue architecture of the post-implantation embryo has yet to be undertaken. Here we report a spatially resolved transcriptome of cell populations at defined positions in the germ layers during development from pre- to late-gastrulation stages. This spatiotemporal transcriptome provides high-resolution digitized in situ gene-expression profiles, reveals the molecular genealogy of tissue lineages and defines the continuum of pluripotency states in time and space. The transcriptome further identifies the networks of molecular determinants that drive lineage specification and tissue patterning, supports a role of Hippo–Yap signalling in germ-layer development and reveals the contribution of visceral endoderm to the endoderm in the early mouse embryo.
-  authors:
-    Guangdun Peng^#; <b>Shengbao Suo</b>^; Guizhong Cui^; Fang Yu^; Ran Wang; Jun Chen; Shirui Chen; Zhiwen Liu; Guoyu Chen; Yun Qian; Patrick P.L.Tam; Jing-Dong J.Han#; Naihe Jing#
-  link:
-    url: https://www.nature.com/articles/s41586-019-1469-8
-    display: Nature, 2019, 572(7770):528-532
-  highlight: 0
-
-- title: Revealing the critical regulators of cell identity in the mouse cell atlas
-  image: dummy.png
-  description: ""
-  authors:
-    <b>Shengbao Suo</b>; Qian Zhu; Assieh Saadatpour; Lijiang Fei; Guoji Guo; Guo-Cheng Yuan#
-  link:
-    url: https://doi.org/10.1016/j.celrep.2018.10.045
-    display: Cell Reports, 2018, 6(25):1436-1445
-  highlight: 0
-
-- title: Spatial transcriptomic analysis of cryosectioned tissue samples with Geo-seq
-  image: dummy.png
-  description: ""
-  authors:
-    Jun Chen^; <b>Shengbao Suo</b>^; Patrick PL Tam; Jing-Dong J Han#; Guangdun Peng#; Naihe Jing#
-  link:
-    url: https://www.nature.com/articles/nprot.2017.003
-    display: Nature Protocols, 2017, 12(3):566-580
-  highlight: 0
-
-- title: Spatial transcriptome for the molecular annotation of lineage fates and cell identity in mid-gastrula mouse embryo
-  image: dummy.png
-  description: ""
-  authors:
-    Guangdun Peng^; <b>Shengbao Suo</b>^; Jun Chen^; Weiyang Chen; Chang Liu; Fang Yu; Ran Wang; Shirui Chen; Na Sun; Guizhong Cui; Lu Song; Patrick P.L. Tam; Jing-Dong J.Han#; Naihe Jing#
-  link:
-    url: https://doi.org/10.1016/j.devcel.2016.02.020
-    display: Developmental Cell, 2016, 36(6):681-697
-  highlight: 0
-
-- title: Mouse gastrulation:Attributes of transcription factor regulatory network for epiblast patterning
-  image: dummy.png
-  description: ""
-  authors:
-    Guizhong Cui^; <b>Shengbao Suo</b>^; Ran Wang; Yun Qian; Jing-Dong J. Han#; Guangdun Peng#; Patrick P. L. Tam#; Naihe Jing#
-  link:
-    url: https://doi.org/10.1111/dgd.12568
-    display: Development, Growth & Differentiation, 2018, 60(8):463-472
-  highlight: 0
-
-- title: PSEA:Kinase-specific prediction and analysis of human phosphorylation substrates
-  image: dummy.png
-  description: ""
-  authors:
-    <b>Sheng-Bao Suo</b>; Jian-Ding Qiu#; Shao-Ping Shi; Xiang Chen; Ru-Ping Liang
-  link:
-    url: https://www.nature.com/articles/srep04524
-    display: Scientific Reports, 2014, 4(4):4524
-  highlight: 0
-
-- title: Proteome-wide analysis of amino acid variations that influences protein lysine acetylation
-  image: dummy.png
-  description: ""
-  authors:
-    <b>Sheng-Bao Suo</b>; Jian-Ding Qiu#; Shao-Ping Shi; Xiang Chen; Shu-Yun Huang; Ru-Ping Liang
-  link:
-    url: https://pubs.acs.org/doi/10.1021/pr301007j
-    display: Journal of Proteome Research, 2013, 12 (2):949-958
-  highlight: 0
-
-- title: Position-Specific Analysis and Prediction for Protein Lysine Acetylation Based on Multiple Features
-  image: dummy.png
-  description: ""
-  authors:
-    <b>Sheng-Bao Suo</b>; Jian-Ding Qiu#; Shao-Ping Shi; Xing-Yu Sun; Shu-Yun Huang; Xiang Chen; Ru-Ping Liang
-  link:
-    url: https://doi.org/10.1371/journal.pone.0049108
-    display: PLoS ONE, 2012, 7( 11):e49108
-  highlight: 0
 
 - title: Single-nucleus transcriptome analysis of human brain immune response in patients with severe COVID-19
   image: dummy.png
@@ -150,7 +58,6 @@
     url: https://doi.org/10.1186/s13073-021-00933-8
     display: Genome Medicine, 2021, 13(1):118
   highlight: 0
-
 - title: Massively parallel in vivo CRISPR screening identifies RNF20/40 as epigenetic regulators of cardiomyocyte maturation
   image: dummy.png
   description: ""
@@ -200,7 +107,28 @@
     url: https://www.nature.com/articles/s41586-020-03126-2
     display: Nature, 2021, 590(7845):344-350
   highlight: 0
+  
+- title: Molecular pathways of colon inflammation induced by cancer immunotherapy
+  image: colitis.png
+  description: 
+    Checkpoint blockade with antibodies specific for the PD-1 and CTLA-4 inhibitory receptors can induce durable responses in a wide range of human cancers. However, the immunological mechanisms responsible for severe inflammatory side effects remain poorly understood. Here we report a comprehensive single-cell analysis of immune cell populations in colitis, a common and severe side effect of checkpoint blockade. We observed a striking accumulation of CD8 T cells with highly cytotoxic and proliferative states and no evidence of regulatory T cell depletion. T cell receptor (TCR) sequence analysis demonstrated that a substantial fraction of colitis-associated CD8 T cells originated from tissue-resident populations, explaining the frequently early onset of colitis symptoms following treatment initiation. Our analysis also identified cytokines, chemokines, and surface receptors that could serve as therapeutic targets for colitis and potentially other inflammatory side effects of checkpoint blockade.
+  authors:
+    Adrienne M. Luoma^; **Shengbao Suo**^; Hannah L. Williams; Tatyana Sharova; Keri Sullivan; Michael Manos; Peter Bowling; F. Stephen Hodi; Osama Rahma; Ryan J. Sullivan; Genevieve M. Boland; Jonathan A. Nowak; Stephanie K. Dougan; Michael Dougan#; Guo-Cheng Yuan; Kai W. Wucherpfennig#
+  link:
+    url: https://doi.org/10.1016/j.cell.2020.06.001
+    display: Cell, 2020, 182(3):655-671
+  highlight: 1
 
+- title: Molecular architecture of lineage allocation and tissue organization in early mouse embryo
+  image: embryo.png
+  description: 
+    During post-implantation development of the mouse embryo, descendants of the inner cell mass in the early epiblast transit from the naive to primed pluripotent state. Fate-mapping and lineage-analysis studies have revealed that cells in different regions of the germ layers acquire location-specific cell fates during gastrulation. However, a genome-wide molecular annotation of lineage segregation and tissue architecture of the post-implantation embryo has yet to be undertaken. Here we report a spatially resolved transcriptome of cell populations at defined positions in the germ layers during development from pre- to late-gastrulation stages. This spatiotemporal transcriptome provides high-resolution digitized in situ gene-expression profiles, reveals the molecular genealogy of tissue lineages and defines the continuum of pluripotency states in time and space. The transcriptome further identifies the networks of molecular determinants that drive lineage specification and tissue patterning, supports a role of Hippo–Yap signalling in germ-layer development and reveals the contribution of visceral endoderm to the endoderm in the early mouse embryo.
+  authors:
+    Guangdun Peng^#; <b>Shengbao Suo</b>^; Guizhong Cui^; Fang Yu^; Ran Wang; Jun Chen; Shirui Chen; Zhiwen Liu; Guoyu Chen; Yun Qian; Patrick P.L.Tam; Jing-Dong J.Han#; Naihe Jing#
+  link:
+    url: https://www.nature.com/articles/s41586-019-1469-8
+    display: Nature, 2019, 572(7770):528-532
+  highlight: 0
 - title: Transcriptional network dynamics during the progression of pluripotency revealed by integrative statistical learning
   image: dummy.png
   description: ""
@@ -251,6 +179,36 @@
     display: Cell Stem Cell, 2018, 23(4):586- 598
   highlight: 0
 
+- title: Revealing the critical regulators of cell identity in the mouse cell atlas
+  image: dummy.png
+  description: ""
+  authors:
+    <b>Shengbao Suo</b>; Qian Zhu; Assieh Saadatpour; Lijiang Fei; Guoji Guo; Guo-Cheng Yuan#
+  link:
+    url: https://doi.org/10.1016/j.celrep.2018.10.045
+    display: Cell Reports, 2018, 6(25):1436-1445
+  highlight: 0
+
+- title: Mouse gastrulation:Attributes of transcription factor regulatory network for epiblast patterning
+  image: dummy.png
+  description: ""
+  authors:
+    Guizhong Cui^; <b>Shengbao Suo</b>^; Ran Wang; Yun Qian; Jing-Dong J. Han#; Guangdun Peng#; Patrick P. L. Tam#; Naihe Jing#
+  link:
+    url: https://doi.org/10.1111/dgd.12568
+    display: Development, Growth & Differentiation, 2018, 60(8):463-472
+  highlight: 0
+
+- title: Spatial transcriptomic analysis of cryosectioned tissue samples with Geo-seq
+  image: dummy.png
+  description: ""
+  authors:
+    Jun Chen^; <b>Shengbao Suo</b>^; Patrick PL Tam; Jing-Dong J Han#; Guangdun Peng#; Naihe Jing#
+  link:
+    url: https://www.nature.com/articles/nprot.2017.003
+    display: Nature Protocols, 2017, 12(3):566-580
+  highlight: 0
+
 - title: Inference of differentiation time for single cell transcriptomes using cell population reference data
   image: dummy.png
   description: ""
@@ -291,6 +249,16 @@
     display: Scientific Reports, 2016, 6:25801
   highlight: 0
 
+- title: Spatial transcriptome for the molecular annotation of lineage fates and cell identity in mid-gastrula mouse embryo
+  image: dummy.png
+  description: ""
+  authors:
+    Guangdun Peng^; <b>Shengbao Suo</b>^; Jun Chen^; Weiyang Chen; Chang Liu; Fang Yu; Ran Wang; Shirui Chen; Na Sun; Guizhong Cui; Lu Song; Patrick P.L. Tam; Jing-Dong J.Han#; Naihe Jing#
+  link:
+    url: https://doi.org/10.1016/j.devcel.2016.02.020
+    display: Developmental Cell, 2016, 36(6):681-697
+  highlight: 0
+
 - title: Proteomic analysis and prediction of human phosphorylation sites in subcellular level reveal subcellular specificity
   image: dummy.png
   description: ""
@@ -299,6 +267,26 @@
   link:
     url: https://academic.oup.com/bioinformatics/article/31/2/194/2365295
     display: Bioinformatics, 2015, 31(2):194-200
+  highlight: 0
+
+- title: PSEA:Kinase-specific prediction and analysis of human phosphorylation substrates
+  image: dummy.png
+  description: ""
+  authors:
+    <b>Sheng-Bao Suo</b>; Jian-Ding Qiu#; Shao-Ping Shi; Xiang Chen; Ru-Ping Liang
+  link:
+    url: https://www.nature.com/articles/srep04524
+    display: Scientific Reports, 2014, 4(4):4524
+  highlight: 0
+
+- title: Proteome-wide analysis of amino acid variations that influences protein lysine acetylation
+  image: dummy.png
+  description: ""
+  authors:
+    <b>Sheng-Bao Suo</b>; Jian-Ding Qiu#; Shao-Ping Shi; Xiang Chen; Shu-Yun Huang; Ru-Ping Liang
+  link:
+    url: https://pubs.acs.org/doi/10.1021/pr301007j
+    display: Journal of Proteome Research, 2013, 12 (2):949-958
   highlight: 0
 
 - title: Systematic analysis and prediction of pupylation sites in prokaryotic proteins
@@ -338,7 +326,7 @@
     Shao-Ping Shi; Jian-Ding Qiu#; Xing-Yu Sun; <b>Sheng-Bao Suo</b>; Shu-Yun Huang; Ru-Ping Liang
   link:
     url: https://www.sciencedirect.com/science/article/abs/pii/S0022519312003232?via%3Dihub
-    display: Journal of Theoretical Biology, 20 12, 310:223-230
+    display: Journal of Theoretical Biology, 2012, 310:223-230
   highlight: 0
 
 - title: PredSulSite:Prediction of protein tyrosine sulfation sites with multiple features and analysis
@@ -391,6 +379,16 @@
     display: Molecular BioSystems, 2012, 8(5):1520-1527
   highlight: 0
 
+- title: Position-Specific Analysis and Prediction for Protein Lysine Acetylation Based on Multiple Features
+  image: dummy.png
+  description: ""
+  authors:
+    <b>Sheng-Bao Suo</b>; Jian-Ding Qiu#; Shao-Ping Shi; Xing-Yu Sun; Shu-Yun Huang; Xiang Chen; Ru-Ping Liang
+  link:
+    url: https://doi.org/10.1371/journal.pone.0049108
+    display: PLoS ONE, 2012, 7( 11):e49108
+  highlight: 0
+  
 - title: OligoPred:A web-server for predicting homo-oligomeric proteins by incorporating discrete wavelet transform into Chou's pseudo amino acid composition
   image: dummy.png
   description: ""
@@ -420,5 +418,13 @@
     url: https://www.sciencedirect.com/science/article/pii/S016748891100019X
     display: Biochimica et Biophysica Acta - Molecular Cell Research, 2011, 1813(3):424-430
   highlight: 0
+
+
+
+
+
+
+
+
 
 
