@@ -2,7 +2,7 @@
   image: dummy.png
   description: ""
   authors:
-    Shengbao Suo
+    **Shengbao Suo**#
   link:
     url: https://doi.org/10.1038/s41576-024-00784-0
     display: Nature Reviews Genetics, 2024, Online now
