@@ -1,4 +1,4 @@
-- 2024
+
 - title: Endogenous retroviruses:unveiling new targets for cancer immunotherapy
   image: dummy.png
   description: ""
@@ -18,7 +18,7 @@
     url: https://doi.org/10.1016/j.cell.2024.08.041
     display: Cell, 2024, Online now
   highlight: 0
-- 2023
+
 - title: Gli1 marks a sentinel muscle stem cell population for muscle regeneration
   image: dummy.png
   description: ""
@@ -48,7 +48,7 @@
     url: https://doi.org/10.1093/nar/gkac633
     display: Nucleic Acids Research, 2023, 51(2):501-516
   highlight: 0
-- 2022  
+
 - title: Tissue-resident memory and circulating T cells are early responders to pre-surgical cancer immunotherapy
   image: Neoadjuvant.jpg
   description: 
@@ -59,7 +59,7 @@
     url: https://doi.org/10.1016/j.cell.2022.06.018
     display: Cell, 2022, 185(16):2918-2935
   highlight: 1
-- 2021
+
 - title: Single-nucleus transcriptome analysis of human brain immune response in patients with severe COVID-19
   image: dummy.png
   description: ""
@@ -118,7 +118,7 @@
     url: https://www.nature.com/articles/s41586-020-03126-2
     display: Nature, 2021, 590(7845):344-350
   highlight: 0
-- 2020  
+
 - title: Molecular pathways of colon inflammation induced by cancer immunotherapy
   image: colitis.png
   description: 
@@ -129,7 +129,7 @@
     url: https://doi.org/10.1016/j.cell.2020.06.001
     display: Cell, 2020, 182(3):655-671
   highlight: 1
-- 2019
+
 - title: Molecular architecture of lineage allocation and tissue organization in early mouse embryo
   image: embryo.png
   description: 
@@ -169,7 +169,7 @@
     url: https://science.sciencemag.org/content/363/6430/993.full
     display: Science, 2019, 363(6430):993-998
   highlight: 0
-- 2018
+
 - title: Accurate drug repositioning through non- tissue-specific core signatures from cancer transcriptomes
   image: dummy.png
   description: ""
@@ -209,7 +209,7 @@
     url: https://doi.org/10.1111/dgd.12568
     display: Development, Growth & Differentiation, 2018, 60(8):463-472
   highlight: 0
-- 2017
+
 - title: Spatial transcriptomic analysis of cryosectioned tissue samples with Geo-seq
   image: dummy.png
   description: ""
@@ -249,7 +249,7 @@
     url: https://elifesciences.org/articles/20994
     display: eLife, 2017, 6:e20994
   highlight: 0
-- 2016
+
 - title: A homology-based pipeline for global prediction of post-translational modification sites
   image: dummy.png
   description: ""
@@ -269,7 +269,7 @@
     url: https://doi.org/10.1016/j.devcel.2016.02.020
     display: Developmental Cell, 2016, 36(6):681-697
   highlight: 0
-- 2015
+
 - title: Proteomic analysis and prediction of human phosphorylation sites in subcellular level reveal subcellular specificity
   image: dummy.png
   description: ""
@@ -279,7 +279,7 @@
     url: https://academic.oup.com/bioinformatics/article/31/2/194/2365295
     display: Bioinformatics, 2015, 31(2):194-200
   highlight: 0
-- 2014
+
 - title: PSEA:Kinase-specific prediction and analysis of human phosphorylation substrates
   image: dummy.png
   description: ""
@@ -289,7 +289,7 @@
     url: https://www.nature.com/articles/srep04524
     display: Scientific Reports, 2014, 4(4):4524
   highlight: 0
-- 2013
+
 - title: Proteome-wide analysis of amino acid variations that influences protein lysine acetylation
   image: dummy.png
   description: ""
@@ -329,7 +329,7 @@
     url: https://www.sciencedirect.com/science/article/abs/pii/S1093326312001490
     display: Journal of Molecular Graphics & Modelling, 2013, 40:125-130
   highlight: 0
-- 2012
+
 - title: A method to distinguish between lysine acetylation and lysine methylation from protein sequences
   image: dummy.png
   description: ""
@@ -399,7 +399,7 @@
     url: https://doi.org/10.1371/journal.pone.0049108
     display: PLoS ONE, 2012, 7( 11):e49108
   highlight: 0
-- 2011  
+ 
 - title: OligoPred:A web-server for predicting homo-oligomeric proteins by incorporating discrete wavelet transform into Chou's pseudo amino acid composition
   image: dummy.png
   description: ""
