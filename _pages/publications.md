@@ -52,7 +52,7 @@ permalink: /publications/
 
 <!-- <p> &nbsp; </p> -->
 
-### Full List
+### 2024
 
 {% for publi in site.data.publist %}
 
