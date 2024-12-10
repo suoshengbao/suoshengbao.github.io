@@ -12,7 +12,7 @@ permalink: /publications/
 
 ### Highlights
 
-(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.com/citations?user=MgVR3TwAAAAJ&hl=en))
+<!-- (For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.com/citations?user=MgVR3TwAAAAJ&hl=en))
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -49,8 +49,18 @@ permalink: /publications/
 {% if even_odd == 1 %}
 </div>
 {% endif %}
-
+ -->
 <!-- <p> &nbsp; </p> -->
+
+
+{% for publi in site.data.publist_highlight %}
+
+  <b>{{ publi.title }}</b> <br />
+  {{ publi.authors }} <br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+
+{% endfor %}
+
+
 ### 2024
 
 {% for publi in site.data.publist_2024 %}
