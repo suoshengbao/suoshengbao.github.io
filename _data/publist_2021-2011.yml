@@ -1,65 +1,3 @@
-
-- title: Endogenous retroviruses:unveiling new targets for cancer immunotherapy
-  image: dummy.png
-  description: ""
-  authors:
-    Shengbao Suo#
-  link:
-    url: https://doi.org/10.1038/s41576-024-00784-0
-    display: Nature Reviews Genetics, 2024, 25(12):827 
-  highlight: 0
-
-- title: Profound cellular defects attribute to muscular pathogenesis in the rhesus monkey model of Duchenne muscular dystrophy
-  image: dummy.png
-  description: ""
-  authors:
-    Shuaiwei Ren^; Xin Fu^; Wenting Guo^; Raoxian Bai^; Sheng Li; Ting Zhang; Jie Liu; Zhengbo Wang; Hui Zhao; **Shengbao Suo**; Weikang Zhang; Minzhi Jia; Weizhi Ji#; Ping Hu#; Yongchang Chen#
-  link:
-    url: https://doi.org/10.1016/j.cell.2024.08.041
-    display: Cell, 2024, 187(23):6669-6686.e16
-  highlight: 0
-
-- title: Gli1 marks a sentinel muscle stem cell population for muscle regeneration
-  image: dummy.png
-  description: ""
-  authors:
-    Jiayin Peng^; Lili Han^; Biao Liu^; Jiawen Song; Yuang Wang; Kunpeng Wang; Qian Guo; XinYan Liu; Yu Li; Jujin Zhang; Wenqing Wu; Sheng Li; Xin Fu; Cheng-le Zhuang; Weikang Zhang; **Shengbao Suo**; Ping Hu#; Yun Zhao#
-  link:
-    url: https://doi.org/10.1038/s41467-023-42837-8
-    display: Nature Communications, 2023, 14:6993
-  highlight: 0
-
-- title: Three-dimensional molecular architecture of mouse organogenesis
-  image: dummy.png
-  description: ""
-  authors:
-    Fangfang Qu^; Wenjia Li^; Jian Xu^; Ruifang Zhang; Jincan Ke; Xiaodie Ren; Xiaogao Meng; Lexin Qin; Jingna Zhang; Fangru Lu; Xin Zhou; Xi Luo; Zhen Zhang; Minhan Wang; Guangming Wu; Duanqing Pei; Jiekai Chen; Guizhong Cui#; **Shengbao Suo**#; Guangdun Peng#
-  link:
-    url: https://doi.org/10.1038/s41467-023-40155-7
-    display: Nature Communications, 2023, 14:4599
-  highlight: 0
-
-- title: Construction of a cross-species cell landscape at single-cell level
-  image: dummy.png
-  description: ""
-  authors:
-    Renying Wang^; Peijing Zhang^#; Jingjing Wang^; Lifeng Ma^; Weigao E^; <b>ShengBao Suo</b>^; Mengmeng Jiang^; Jiaqi Li^; Haide Chen; Huiyu Sun; Lijiang Fei; Ziming Zhou; Yincong Zhou; Yao Chen; Weiqi Zhang; Xinru Wang; Yuqing Mei; Zhongyi Sun; Chengxuan Yu; Jikai Shao; Yuting Fu; Yanyu Xiao; Fang Ye; Xing Fang; Hanyu Wu; Qile Guo; Xiunan Fang; Xia Li; Xianzhi Gao; Dan Wang; Peng-Fei Xu; Rui Zeng; Gang Xu; Lijun Zhu; Lie Wang; Jing Qu; Dan Zhang; Hongwei Ouyang; He Huang; Ming Chen; Shyh-Chang NG#; Guang-Hui Liu#; Guo-Cheng Yuan#; Guoji Guo#; Xiaoping Han#  
-  link:
-    url: https://doi.org/10.1093/nar/gkac633
-    display: Nucleic Acids Research, 2023, 51(2):501-516
-  highlight: 0
-
-- title: Tissue-resident memory and circulating T cells are early responders to pre-surgical cancer immunotherapy
-  image: Neoadjuvant.jpg
-  description: 
-    Neoadjuvant immune checkpoint blockade has shown promising clinical activity. Here, we characterized early kinetics in tumor-infiltrating and circulating immune cells in oral cancer patients treated with neoadjuvant anti-PD-1 or anti-PD-1/CTLA-4 in a clinical trial (NCT02919683). Tumor-infiltrating CD8 T cells that clonally expanded during immunotherapy expressed elevated tissue-resident memory and cytotoxicity programs, which were already active prior to therapy, supporting the capacity for rapid response. Systematic target discovery revealed that treatment-expanded tumor T cell clones in responding patients recognized several self-antigens, including the cancer-specific antigen MAGEA1. The frequency of activated blood CD8 T cells, notably pre-treatment PD-1-positive KLRG1-negative T cells, was strongly associated with intra-tumoral pathological response. These results demonstrate how neoadjuvant checkpoint blockade induces local and systemic tumor immunity.
-  authors:
-    Adrienne M. Luoma^; **Shengbao Suo**^#; Yifan Wang; Lauren Gunasti; Caroline B.M. Porter; Nancy Nabilsi; Jenny Tadros; Andrew P. Ferretti; Sida Liao; Cagan Gurer; Yu-Hui Chen; Shana Criscitiello; Cora A. Ricker; Danielle Dionne; Orit Rozenblatt-Rosen; Ravindra Uppaluri; Robert I. Haddad; Orr Ashenberg; Aviv Regev; Eliezer M. Van Allen; Gavin MacBeath; Jonathan D. Schoenfeld#; Kai W. Wucherpfennig#
-  link: 
-    url: https://doi.org/10.1016/j.cell.2022.06.018
-    display: Cell, 2022, 185(16):2918-2935
-  highlight: 1
-
 - title: Single-nucleus transcriptome analysis of human brain immune response in patients with severe COVID-19
   image: dummy.png
   description: ""
@@ -400,7 +338,7 @@
     url: https://doi.org/10.1371/journal.pone.0049108
     display: PLoS ONE, 2012, 7( 11):e49108
   highlight: 0
- 
+
 - title: OligoPred:A web-server for predicting homo-oligomeric proteins by incorporating discrete wavelet transform into Chou's pseudo amino acid composition
   image: dummy.png
   description: ""
