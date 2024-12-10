@@ -79,7 +79,25 @@ permalink: /publications/
 
 {% endfor %}
 
-### Full List
+### 2022
+
+{% for publi in site.data.publist_2022 %}
+
+  <b>{{ publi.title }}</b> <br />
+  {{ publi.authors }} <br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+
+{% endfor %}
+
+### 2021-2011
+
+{% for publi in site.data.publist_2021-2011 %}
+
+  <b>{{ publi.title }}</b> <br />
+  {{ publi.authors }} <br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+
+{% endfor %}
+
+<!-- ### Full List
 
 {% for publi in site.data.publist %}
 
@@ -88,3 +106,4 @@ permalink: /publications/
 
 {% endfor %}
 
+ -->
