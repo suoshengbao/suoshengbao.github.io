@@ -16,11 +16,14 @@ Questions of interest include: (1) Why do only a small proportion of patients ex
 <!-- ![]({{ site.url }}{{ site.baseurl }}/images/respic/layers_real.jpg){: style="width: 300px; float: right; border: 10px"} -->
 
 ### 2. Early evolutionary of tumors
+
+![]({{ site.url }}{{ site.baseurl }}/images/respic/evolution_1.jpg){: style="width: 300px; float: left; border: 10px"}
+
 Lung cancer ranks high in both incidence and mortality rates among malignant tumors. Clinical data suggest that approximately half of CT scans reveal pulmonary nodules, and although early surgical resection can effectively control the condition, there remains a risk of secondary primary malignancies and overtreatment of benign nodules. Moreover, managing residual lesions with a high progression risk after surgery for primary tumors poses a clinical challenge. Studies indicate that immune evasion occurs even before tumor invasion; however, the specific mechanisms by which immune surveillance fails during the transition from benign to malignant pulmonary nodules remain undefined. Our objective is to combine data computation and experimental validation to focus on dynamic changes within the immune microenvironment, thereby elucidating the evolutionary patterns of cells transitioning from benign to malignant states during the early stages of tumor development.
 
 Questions of interest include: (1) What are the molecular mechanisms underlying the gradual transformation of tumor cells from benign to malignant within the tumor microenvironment？ (2) During the early stages of tumor onset and progression, what mechanisms drive immune infiltration, and what are the key pathways involved in tumor immune escape? Can enhancing immunity prevent tumor deterioration?
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/evolution.jpg){: style="width: 300px; float: left; border: 10px"}
+
 
 ### 3. Novel algorithms for spatiotemporal multi-Omics data analysis
 Technologies like spatiotemporal multi-omics provide data support for studying complex mechanisms, yet challenges such as inadequate resolution in real-space single-cell analysis, ambiguous causal relationships between multimodal datasets, and lack of interpretability in big data limit our ability to precisely decode multiple regulatory mechanisms of the immune system. Advances in artificial intelligence further accelerate the rapid development of the "digital" era of omics. Our goal is to integrate cutting-edge multi-omics techniques with computational approaches to build adaptive digital decoding methods that enable intelligent and panoramic characterization of complex spatiotemporal regulatory patterns among cells in the lung cancer microenvironment.
