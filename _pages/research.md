@@ -10,7 +10,7 @@ permalink: /research/
 
 ### 1. Immune regultion in cancer immunotherapy
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/immunotherapy.jpg){: style="width: 350px; float: right; margin: 0 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/immunotherapy_1.jpg){: style="width: 450px; float: right; margin: 0 10px"}
 
 Traditional therapies for lung cancer have shown limited efficacy, while immunotherapy has achieved breakthrough progress. However, there is significant variability in patient responses to immunotherapy, which operates as a "double-edged sword"—while it can stimulate the body's antitumor immune response, it may also induce severe immune-related adverse events (irAEs) such as pneumonitis. The intrinsic mechanisms linking immune responses and immunotoxicity in lung cancer remain unclear. Our goal is to explore and understand the mechanisms of multi-scale immune regulation in cancer immunotherapy. To achieve this, we employ single-cell and spatial technologies and develop novel computational methods to quantify the regulatory networks of different immune cells, with a particular focus on T cells.
 
