@@ -9,7 +9,7 @@ permalink: /positions
 ## Open positions
 
 <p>Our lab mainly use and develop computational and theoretical approaches based on multi-omics high-throughput sequencing data, but also establish wet-lab experiments if needed, to systematically understand regulation mechanisms in single-cell and spatial level, with focus on questions in immunology. </p>
-<p>We are always looking for creative, energetic and collaborative **students** and **postdoc** to join our interdisciplinary team!</p>
+<p>We are always looking for creative, energetic and collaborative **student** and **postdoc** to join our interdisciplinary team!</p>
 
 
 
