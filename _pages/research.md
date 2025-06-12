@@ -13,7 +13,7 @@ Traditional therapies for lung cancer have shown limited efficacy, while immunot
 
 Questions of interest include: (1) Why do only a small proportion of patients exhibit an immune response following immunotherapy? What are the underlying mechanisms? (2) irAEs are common among cancer patients undergoing immunotherapy. What are the detailed pathways associated with irAEs across various cancers, and how can these side effects be avoided without compromising treatment efficacy?
 
-<!-- ![]({{ site.url }}{{ site.baseurl }}/images/respic/layers_real.jpg){: style="width: 300px; float: right; border: 10px"} -->
+![]({{ site.url }}{{ site.baseurl }}/images/respic/immunotherapy.jpg){: style="width: 300px; border: 10px"}
 
 ### 2. Early evolutionary of tumors
 
