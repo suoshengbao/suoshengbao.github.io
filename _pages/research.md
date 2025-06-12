@@ -17,7 +17,7 @@ Questions of interest include: (1) Why do only a small proportion of patients ex
 
 ### 2. Early evolutionary of tumors
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/evolution_1.jpg){: style="width: 80px; float: left; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/evolution_2.jpg){: style="width: 80px; float: left; border: 10px"}
 
 Lung cancer ranks high in both incidence and mortality rates among malignant tumors. Clinical data suggest that approximately half of CT scans reveal pulmonary nodules, and although early surgical resection can effectively control the condition, there remains a risk of secondary primary malignancies and overtreatment of benign nodules. Moreover, managing residual lesions with a high progression risk after surgery for primary tumors poses a clinical challenge. Studies indicate that immune evasion occurs even before tumor invasion; however, the specific mechanisms by which immune surveillance fails during the transition from benign to malignant pulmonary nodules remain undefined. Our objective is to combine data computation and experimental validation to focus on dynamic changes within the immune microenvironment, thereby elucidating the evolutionary patterns of cells transitioning from benign to malignant states during the early stages of tumor development.
 
