@@ -37,6 +37,8 @@ permalink: /positions
 <p>The candidates would have great communication skills and English writing skills.</p>
 
 <p>If you are interested in joining us, please send us an email along with a brief cover letter and a detailed CV . Please indicate “Application Research Assistant (Your name)” in the email subject.</p>
+&nbsp;
+&nbsp;
 
 <!-- <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="95%">
