@@ -60,6 +60,14 @@ permalink: /publications/
 
 {% endfor %}
 
+### 2025
+
+{% for publi in site.data.publist_2025 %}
+
+  <b>{{ publi.title }}</b> <br />
+  {{ publi.authors }} <br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+
+{% endfor %}
 
 ### 2024
 
