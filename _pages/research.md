@@ -9,14 +9,12 @@ permalink: /research/
 ## Research
 
 ### 1. Immune regultion in cancer immunotherapy
-
-
 Traditional therapies for lung cancer have shown limited efficacy, while immunotherapy has achieved breakthrough progress. However, there is significant variability in patient responses to immunotherapy, which operates as a "double-edged sword"—while it can stimulate the body's antitumor immune response, it may also induce severe immune-related adverse events (irAEs) such as pneumonitis. The intrinsic mechanisms linking immune responses and immunotoxicity in lung cancer remain unclear. Our goal is to explore and understand the mechanisms of multi-scale immune regulation in cancer immunotherapy. To achieve this, we employ single-cell and spatial technologies and develop novel computational methods to quantify the regulatory networks of different immune cells, with a particular focus on T cells.
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/immunotherapy.jpg){: style="width: 380px; float: left; margin: 0 10px"}
 
 Questions of interest include: (1) Why do only a small proportion of patients exhibit an immune response following immunotherapy? What are the underlying mechanisms? (2) irAEs are common among cancer patients undergoing immunotherapy. What are the detailed pathways associated with irAEs across various cancers, and how can these side effects be avoided without compromising treatment efficacy?
-
+&nbsp;
 
 
 ### 2. Early evolutionary of tumors
@@ -26,7 +24,7 @@ Questions of interest include: (1) Why do only a small proportion of patients ex
 Lung cancer ranks high in both incidence and mortality rates among malignant tumors. Clinical data suggest that approximately half of CT scans reveal pulmonary nodules, and although early surgical resection can effectively control the condition, there remains a risk of secondary primary malignancies and overtreatment of benign nodules. Moreover, managing residual lesions with a high progression risk after surgery for primary tumors poses a clinical challenge. Studies indicate that immune evasion occurs even before tumor invasion; however, the specific mechanisms by which immune surveillance fails during the transition from benign to malignant pulmonary nodules remain undefined. Our objective is to combine data computation and experimental validation to focus on dynamic changes within the immune microenvironment, thereby elucidating the evolutionary patterns of cells transitioning from benign to malignant states during the early stages of tumor development.
 
 Questions of interest include: (1) What are the molecular mechanisms underlying the gradual transformation of tumor cells from benign to malignant within the tumor microenvironment? (2) During the early stages of tumor onset and progression, what mechanisms drive immune infiltration, and what are the key pathways involved in tumor immune escape? Can enhancing immunity prevent tumor deterioration?
-
+&nbsp;
 
 
 ### 3. Novel algorithms for spatiotemporal multi-omics data analysis
