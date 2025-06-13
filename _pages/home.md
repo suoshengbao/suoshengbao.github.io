@@ -52,7 +52,7 @@ permalink: /
 
 <!-- We are located at XX, the XX ([XX](https://www.)). We exchange ideas and work with our neighbors from [XX](http://www.), as well as with the colleagues from [XX](https://www.). -->
 
- **We are  looking for passionate Associate Investigator, Postdoc, Assistant Investigator and Research Assistant/Lab manager to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/positions) **!**
+ **We are  looking for passionate undergraduate/graduate student and postdoc to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/positions) **!**
  
  
 <!-- We are grateful for funding from [XX](www.) and [XX](https://www.). -->
