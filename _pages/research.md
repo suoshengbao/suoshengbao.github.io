@@ -10,7 +10,7 @@ permalink: /research/
 &nbsp;
 
 <div style="padding-left: 0px; display:inline-block;margin-top:-10px;">
-<div class="well"  style="height: 400px; width: 945px">
+<div class="well"  style="height: 425px; width: 945px">
 <h3 style="color: #4E95D9;">1. Immune regultion in cancer immunotherapy</h3>
 Traditional therapies for lung cancer have shown limited efficacy, while immunotherapy has achieved breakthrough progress. However, there is significant variability in patient responses to immunotherapy, which operates as a "double-edged sword"—while it can stimulate the body's antitumor immune response, it may also induce severe immune-related adverse events (irAEs) such as pneumonitis. The intrinsic mechanisms linking immune responses and immunotoxicity in lung cancer remain unclear. Our goal is to explore and understand the mechanisms of multi-scale immune regulation in cancer immunotherapy. To achieve this, we employ single-cell and spatial technologies and develop novel computational methods to quantify the regulatory networks of different immune cells, with a particular focus on T cells.
 
@@ -24,7 +24,7 @@ Questions of interest include: (1) Why do only a small proportion of patients ex
 
 
 <div style="padding-left: 0px; display:inline-block;margin-top:-10px;">
-<div class="well"  style="height: 400px; width: 945px">
+<div class="well"  style="height: 425px; width: 945px">
 <h3 style="color: #4E95D9;">2. Early evolutionary of tumors</h3>
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/evolution.jpg){: style="width: 265px; float: right; margin: 0 10px"}
@@ -39,7 +39,7 @@ Questions of interest include: (1) What are the molecular mechanisms underlying 
 
 
 <div style="padding-left: 0px; display:inline-block;margin-top:-10px;">
-<div class="well"  style="height: 400px; width: 945px">
+<div class="well"  style="height: 425px; width: 945px">
 <h3 style="color: #4E95D9;">3. Novel algorithms for spatiotemporal multi-omics data analysis</h3>
 Technologies like spatiotemporal multi-omics provide data support for studying complex mechanisms, yet challenges such as inadequate resolution in real-space single-cell analysis, ambiguous causal relationships between multimodal datasets, and lack of interpretability in big data limit our ability to precisely decode multiple regulatory mechanisms of the immune system. Advances in artificial intelligence further accelerate the rapid development of the "digital" era of omics. Our goal is to integrate cutting-edge multi-omics techniques with computational approaches to build adaptive digital decoding methods that enable intelligent and panoramic characterization of complex spatiotemporal regulatory patterns among cells in the lung cancer microenvironment.
 
