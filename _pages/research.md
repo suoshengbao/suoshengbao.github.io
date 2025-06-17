@@ -7,6 +7,7 @@ permalink: /research/
 ---
 
 ## Research
+&nbsp;
 
 <div style="padding-left: 0px; display:inline-block;margin-top:-10px;">
 <div class="well"  style="height: 400px; width: 945px">
