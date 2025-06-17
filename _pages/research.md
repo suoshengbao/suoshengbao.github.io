@@ -17,7 +17,7 @@ Questions of interest include: (1) Why do only a small proportion of patients ex
 &nbsp;
 
 
-### 2. Early evolutionary of tumors
+<h3 style="color: #4E95D9;">2. Early evolutionary of tumors</h3>
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/evolution.jpg){: style="width: 265px; float: right; margin: 0 10px"}
 
@@ -27,7 +27,7 @@ Questions of interest include: (1) What are the molecular mechanisms underlying 
 &nbsp;
 
 
-### 3. Novel algorithms for spatiotemporal multi-omics data analysis
+<h3 style="color: #4E95D9;">3. Novel algorithms for spatiotemporal multi-omics data analysis</h3>
 Technologies like spatiotemporal multi-omics provide data support for studying complex mechanisms, yet challenges such as inadequate resolution in real-space single-cell analysis, ambiguous causal relationships between multimodal datasets, and lack of interpretability in big data limit our ability to precisely decode multiple regulatory mechanisms of the immune system. Advances in artificial intelligence further accelerate the rapid development of the "digital" era of omics. Our goal is to integrate cutting-edge multi-omics techniques with computational approaches to build adaptive digital decoding methods that enable intelligent and panoramic characterization of complex spatiotemporal regulatory patterns among cells in the lung cancer microenvironment.
 
 Specific interests include: (1) How can we computationally reconstruct high-resolution spatial microenvironments and quantitatively characterize the spatiotemporal interaction features between different cells? (2) Develop causal inference algorithms for spatiotemporal multimodal data to construct directed regulatory networks and unravel the intricate interactive regulatory mechanisms of the immune system. (3) Construct interpretable machine learning models to predict biomarkers indicative of immune responses and disease states.
