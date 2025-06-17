@@ -18,11 +18,13 @@ Traditional therapies for lung cancer have shown limited efficacy, while immunot
 
 Questions of interest include: (1) Why do only a small proportion of patients exhibit an immune response following immunotherapy? What are the underlying mechanisms? (2) irAEs are common among cancer patients undergoing immunotherapy. What are the detailed pathways associated with irAEs across various cancers, and how can these side effects be avoided without compromising treatment efficacy?
 &nbsp;
-
 </div>
 </div>
 
 
+
+<div style="padding-left: 0px; display:inline-block;margin-top:-10px;">
+<div class="well"  style="height: 400px; width: 945px">
 <h3 style="color: #4E95D9;">2. Early evolutionary of tumors</h3>
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/evolution.jpg){: style="width: 265px; float: right; margin: 0 10px"}
@@ -31,12 +33,20 @@ Lung cancer ranks high in both incidence and mortality rates among malignant tum
 
 Questions of interest include: (1) What are the molecular mechanisms underlying the gradual transformation of tumor cells from benign to malignant within the tumor microenvironment? (2) During the early stages of tumor onset and progression, what mechanisms drive immune infiltration, and what are the key pathways involved in tumor immune escape? Can enhancing immunity prevent tumor deterioration?
 &nbsp;
+</div>
+</div>
 
 
+
+<div style="padding-left: 0px; display:inline-block;margin-top:-10px;">
+<div class="well"  style="height: 400px; width: 945px">
 <h3 style="color: #4E95D9;">3. Novel algorithms for spatiotemporal multi-omics data analysis</h3>
 Technologies like spatiotemporal multi-omics provide data support for studying complex mechanisms, yet challenges such as inadequate resolution in real-space single-cell analysis, ambiguous causal relationships between multimodal datasets, and lack of interpretability in big data limit our ability to precisely decode multiple regulatory mechanisms of the immune system. Advances in artificial intelligence further accelerate the rapid development of the "digital" era of omics. Our goal is to integrate cutting-edge multi-omics techniques with computational approaches to build adaptive digital decoding methods that enable intelligent and panoramic characterization of complex spatiotemporal regulatory patterns among cells in the lung cancer microenvironment.
 
 Specific interests include: (1) How can we computationally reconstruct high-resolution spatial microenvironments and quantitatively characterize the spatiotemporal interaction features between different cells? (2) Develop causal inference algorithms for spatiotemporal multimodal data to construct directed regulatory networks and unravel the intricate interactive regulatory mechanisms of the immune system. (3) Construct interpretable machine learning models to predict biomarkers indicative of immune responses and disease states.
+&nbsp;
+</div>
+</div>
 
 &nbsp;
 &nbsp;
