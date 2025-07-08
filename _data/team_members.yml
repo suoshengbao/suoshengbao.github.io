@@ -38,19 +38,21 @@
 
 - name: Yanping Lu
   photo: YanpingLu.jpeg
-  info: Graduate student
+  info: Ph.D student 
   email: 
-  number_educ: 2
-  education1: 2021-present Master candidate, Yunnan University
-  education2: 2017-2021 B.S., Qujing Normal University
+  number_educ: 3
+  education1: 2024-present Ph.D candidate, ShanghaiTech University
+  education2: 2021-present Master candidate, Yunnan University
+  education3: 2017-2021 B.S., Qujing Normal University
 
 - name: Yumeng Yang
   photo: YumengYang.jpeg
-  info: Graduate student
+  info: Ph.D student 
   email: 
-  number_educ: 2
-  education1: 2021-present Master candidate, Yunnan University
-  education2: 2017-2021 B.S., Hainan University
+  number_educ: 3
+  education1: 2024-present Ph.D candidate, Sun Yat-sen University
+  education2: 2021-present Master candidate, Yunnan University
+  education3: 2017-2021 B.S., Hainan University
 
 - name: Meilin Mu
   photo: MeilinMu.jpg
@@ -125,9 +127,10 @@
   photo: MinyiLV.jpg
   info: Ph.D student
   email: 
-  number_educ: 2
-  education1: 2020-2023 Master in Surgery,  Six affiliated hospital，Sun-Yat sen University
-  education2: 2014-2020 M.D.,Clinical Medical College, Guangdong Medicial University
+  number_educ: 3
+  education1: 2024-present Ph.D candidate, Sun Yat-sen University
+  education2: 2020-2023 Master in Surgery,  Six affiliated hospital，Sun-Yat sen University
+  education3: 2014-2020 M.D.,Clinical Medical College, Guangdong Medicial University
 
 - name: Yuyan Wang
   photo: YuyanWang.png
