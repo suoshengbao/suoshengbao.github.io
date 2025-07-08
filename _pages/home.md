@@ -8,7 +8,7 @@ permalink: /
 
 <!-- <p>We are a young research group at the [Bioland Laboratory](https://www.grmh-gdl.cn) in the Max-Planck Center for Tissue Stem Cell Research and Regenerative Medicine.</p> -->
 <p>We are a young research group at the Guangzhou Laboratory. If you are interested in working with us, please see more information on <a href="https://suoshengbao.github.io/positions">Positions</a>. </p>
-<p>Transformative single-cell multi-omics and spatial technologies now provide an opportunity to dissect the state of individual cells at unprecedented resolution. Given the rapid development of different single-cell biotechnologies and new wave of big omics data with their own specificities in terms of complexity and information content, our aims is to use computational and theoretical approaches combined with multi-omics high-throughput sequencing data to quantitatively address the full-scale complexity of biological systems and derive novel biological insights. We will build an interdisciplinary team to tightly link computation and biological technologies, and gradually set up wet experiment systems for validating computationally inferred hypotheses. We will always be eager to seek collaborations in development, stem cell biology and immunology within our rich scientific community to push forward our understandings of gene regulation mechanism in different biological systems and yield new therapeutic approaches for human disease treatment.</p>
+<p>Transformative single-cell multi-omics and spatial technologies now provide an opportunity to dissect the state of individual cells at unprecedented resolution. Given the rapid development of different single-cell biotechnologies and new wave of big omics data with their own specificities in terms of complexity and information content, our aims is to use computational and theoretical approaches combined with multi-omics high-throughput sequencing data to quantitatively address the full-scale complexity of biological systems and derive novel biological insights. We are building an interdisciplinary team to tightly link computation and biological technologies, and gradually set up wet experiment systems for validating computationally inferred hypotheses. We will always be eager to seek collaborations, such as cancer immunology, within our rich scientific community to push forward our understandings of regulation mechanism and yield new therapeutic approaches for human disease treatment.</p>
  
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
@@ -52,7 +52,7 @@ permalink: /
 
 <!-- We are located at XX, the XX ([XX](https://www.)). We exchange ideas and work with our neighbors from [XX](http://www.), as well as with the colleagues from [XX](https://www.). -->
 
- **We are  looking for passionate Associate Investigator, Postdoc, Assistant Investigator and Research Assistant/Lab manager to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/positions) **!**
+ **We are  looking for passionate undergraduate/graduate student and postdoc to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/positions) **!**
  
  
 <!-- We are grateful for funding from [XX](www.) and [XX](https://www.). -->
