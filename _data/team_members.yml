@@ -123,7 +123,7 @@
 
 - name: MinyiLv
   photo: MinyiLV.jpg
-  info: Research Assistant
+  info: Ph.D student
   email: 
   number_educ: 2
   education1: 2020-2023 Master in Surgery,  Six affiliated hospital，Sun-Yat sen University
@@ -143,6 +143,15 @@
   number_educ: 2
   education1: 2013-2018 Master, CAS-MPG Partner Institute for Computational Biology, SIBS, CAS, Shanghai
   education2: 2008-2013 B.S., Southwest Jiaotong University  
+
+- name: LongZhao
+  photo: LongZhao.jpg
+  info: Ph.D student
+  email: 
+  number_educ: 3
+  education1: 2025-present Ph.D candidate, Sun Yat-sen University
+  education2: 2022-2025 Master, Nanchang University
+  education3: 2018-2022 B.S., Jinggangshan University
 
 - name: "This could be you !"
   photo: unknown.png
