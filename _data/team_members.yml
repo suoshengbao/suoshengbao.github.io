@@ -72,14 +72,6 @@
   education2: 2015-2018 Master, CAS-Center for Excellence in Molecular Plant Science, Chinese Academy of Sciences
   education3: 2011-2015 B.S., Qufu Normal University
 
-- name: Jincan Ke
-  photo: JincanKe.jpg
-  info: Intern (student)
-  email: 
-  number_educ: 2
-  education1: 2020-present Ph.D candidate, Guangzhou Institutes of Biomedicine and Health, Chinese Academy of Sciences
-  education2: 2016-2020 B.S., Nanjing Medical University
-
 - name: Lingfeng Liu
   photo: LingfengLiu.jpg
   info: Ph.D student
@@ -115,14 +107,6 @@
   education1: 2020-2023 Master, School of Medicine, Southern University of Science and Technology
   education2: 2016-2020 B.S., Marine College, Shandong University
 
-- name: Ergang Wen
-  photo: ErgangWen.jpg
-  info: Research Assistant
-  email: 
-  number_educ: 2
-  education1: 2020-2023 Master, Xi'an jiaotong university
-  education2: 2016-2020 B.S., Yanbian university
-
 - name: Minyi Lv
   photo: MinyiLV.jpg
   info: Ph.D student
@@ -155,6 +139,15 @@
   education1: 2025-present Ph.D candidate, Sun Yat-sen University
   education2: 2022-2025 Master, Nanchang University
   education3: 2018-2022 B.S., Jinggangshan University
+
+- name: Qin Wei
+  photo: QinWei.jpg
+  info: Intern  (student)
+  email: 
+  number_educ: 2
+  education1: 2025-present M.S. candidate, Respiratory Health Research Institute, Guangzhou Medical University 
+  education2: 2019-2023 B.S., Chengdu University of Traditional Chinese Medicine  
+
 
 - name: "This could be you !"
   photo: unknown.png
