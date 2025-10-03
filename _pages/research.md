@@ -42,7 +42,7 @@ Questions of interest include: (1) What are the molecular mechanisms underlying 
 <div class="well"  style="height: 425px; width: 945px">
 <h3 style="color: #4E95D9;">3. Novel algorithms for spatiotemporal multi-omics data analysis</h3>
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/algorithm.png){: style="width: 265px; float: left; margin: 0 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/algorithm.png){: style="width: 265px; float: left; margin: 0 10px" class="img-responsive"}
 
 Technologies like spatiotemporal multi-omics provide data support for studying complex mechanisms, yet challenges such as inadequate resolution in real-space single-cell analysis, ambiguous causal relationships between multimodal datasets, and lack of interpretability in big data limit our ability to precisely decode multiple regulatory mechanisms of the immune system. Advances in artificial intelligence further accelerate the rapid development of the "digital" era of omics. Our goal is to integrate cutting-edge multi-omics techniques with computational approaches to build adaptive digital decoding methods that enable intelligent and panoramic characterization of complex spatiotemporal regulatory patterns among cells in the lung cancer microenvironment.
 
