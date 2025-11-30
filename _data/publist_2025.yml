@@ -1,3 +1,16 @@
+<<<<<<< HEAD
+=======
+- title: Uncovering the immune mechanisms underlying the emergence of immunotherapy-induced pneumonitis in lung cancer patients
+  image: dummy.png
+  description: ""
+  authors:
+    Xinqing Lin^; Chunjie Li^; Jiaxi Deng^; Ying Wu; Bingbing Xie; Jingyi Bao; Wenwei Mo; Changhao Zhong; Haiyi Deng; Qingjun Pan; Yuan Qiu; Yuwen He; Shiyue Li; Jia Li; **Shengbao Suo**#; Chengzhi Zhou#.
+  link:
+    url: 10.1038/s41467-025-66509-x
+    display: Nature Communications, 2025, Online ahead of print
+  highlight: 0
+
+>>>>>>> abbf1758b91d28d310c80dfade7d967ce5e1f230
 - title: Human iPSC-based breast cancer model identifies S100P-dependent cancer stemness induced by BRCA1 mutation
   image: dummy.png
   description: ""
