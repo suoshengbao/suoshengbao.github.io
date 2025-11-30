@@ -2,7 +2,7 @@
   image: dummy.png
   description: ""
   authors:
-    Yanping Lu; Yuyan Wang; Meng Xu; Bingbing Xie; Yumeng Yang; Haodong Xu; <b>Shengbao Suo</b>#
+    Yanping Lu^; Yuyan Wang^; Meng Xu; Bingbing Xie; Yumeng Yang; Haodong Xu#; <b>Shengbao Suo</b>#
   link:
     url: https://www.nature.com/articles/s41592-025-02910-0
     display: Nature Methods, 2025
