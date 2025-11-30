@@ -44,8 +44,10 @@ firstp {
   margin-right: auto;
   margin-left: auto;
   max-width: 1000px; /* or 950px */
-  background-color: #f5f7fa;
+  background-color: #fafafa; /* or # f5f7fa  represent the background color of content for each page */
   /*height: 1000px;*/
+  border-radius: 12px; /* 设置弧形角，数值越大越圆润 */
+  text-align: justify; /* 添加这行即可实现文字两端对齐 */
 }
 
 .container-fluid-header {
@@ -68,33 +70,33 @@ firstp {
 }
 
 #newsid img {
-	margin-top: 6px;
-	margin-bottom: 6px;
+	margin-top: 5px;
+	margin-bottom: 5px;
 }
 
 /* Team & Publications */
-#gridid img { margin: 16px 22px 6px 0; border-radius:10%; box-shadow: 2px 2px 5px #888888 }
+#gridid img { margin: 15px 22px 6px 0; border-radius:10%; box-shadow: 2px 2px 5px #888888 }
 #homeid img { margin: 0 0 0 0; border-radius:5%; box-shadow: 0px 0px 0px #888888 }
 #picid img { margin: 6px 3px 60px 6px; border-radius:1%; box-shadow: 2px 2px 5px #888888 }
-#gridid .row { margin-bottom: 24px; }
+#gridid .row { margin-bottom: 25px; }
 
 
 /* Grid overrides */
 .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-5, .col-sm-6,
 .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12 {
-	padding-left: 16px;
-	padding-right: 16px;
+	padding-left: 15px;
+	padding-right: 15px;
 }
 
 .col-sm-15 {
-    padding-left: 16px;
-    padding-right: 16px;
+    padding-left: 15px;
+    padding-right: 15px;
     height: 180px;
 }
 
 /* Grid overrides */
 .col-sm-4 {
-	padding-left: 6px;
+	padding-left: 5px;
 	padding-right: 0px;
     padding-top: 80px;
     height: 1000px;

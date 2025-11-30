@@ -1,0 +1,10 @@
+- title: Tissue-resident memory and circulating T cells are early responders to pre-surgical cancer immunotherapy
+  image: Neoadjuvant.jpg
+  description: 
+    Neoadjuvant immune checkpoint blockade has shown promising clinical activity. Here, we characterized early kinetics in tumor-infiltrating and circulating immune cells in oral cancer patients treated with neoadjuvant anti-PD-1 or anti-PD-1/CTLA-4 in a clinical trial (NCT02919683). Tumor-infiltrating CD8 T cells that clonally expanded during immunotherapy expressed elevated tissue-resident memory and cytotoxicity programs, which were already active prior to therapy, supporting the capacity for rapid response. Systematic target discovery revealed that treatment-expanded tumor T cell clones in responding patients recognized several self-antigens, including the cancer-specific antigen MAGEA1. The frequency of activated blood CD8 T cells, notably pre-treatment PD-1-positive KLRG1-negative T cells, was strongly associated with intra-tumoral pathological response. These results demonstrate how neoadjuvant checkpoint blockade induces local and systemic tumor immunity.
+  authors:
+    Adrienne M. Luoma^; **Shengbao Suo**^#; Yifan Wang; Lauren Gunasti; Caroline B.M. Porter; Nancy Nabilsi; Jenny Tadros; Andrew P. Ferretti; Sida Liao; Cagan Gurer; Yu-Hui Chen; Shana Criscitiello; Cora A. Ricker; Danielle Dionne; Orit Rozenblatt-Rosen; Ravindra Uppaluri; Robert I. Haddad; Orr Ashenberg; Aviv Regev; Eliezer M. Van Allen; Gavin MacBeath; Jonathan D. Schoenfeld#; Kai W. Wucherpfennig#
+  link: 
+    url: https://doi.org/10.1016/j.cell.2022.06.018
+    display: Cell, 2022, 185(16):2918-2935
+  highlight: 1

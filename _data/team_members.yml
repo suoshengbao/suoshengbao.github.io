@@ -36,47 +36,118 @@
   education3: 2017-2018 Medical Science Liaison, OrigiMed Co., Ltd.
   education4: 2014-2017 Ph.D, Graduate School of Life Sciences, Kyoto University
 
-- name: Gaoming Liao
-  photo: GaomingLiao.jpg
-  info: Postdoctoral Fellow
-  email: 
-  number_educ: 3
-  education1: 2019-2022 Ph.D Harbin Medical University
-  education2: 2016-2019 Master, Harbin Medical University
-  education3: 2011-2016 B.S., Harbin Medical University
-
-- name: Yaoshen Li
-  photo: YaoshenLi.jpeg
-  info: Research Assistant
-  email: 
-  number_educ: 3
-  education1: 2016-2016 Visiting Scholar, Purdue University
-  education2: 2014-2016 Master, Shanxi Agricultural University
-  education3: 2010-2014 B.S., Shanxi Agricultural University
-
 - name: Yanping Lu
   photo: YanpingLu.jpeg
-  info: Graduate student
+  info: Ph.D student 
   email: 
-  number_educ: 2
-  education1: 2021-present Master candidate, Yunnan University
-  education2: 2017-2021 B.S., Qujing Normal University
+  number_educ: 3
+  education1: 2024-present Ph.D candidate, ShanghaiTech University
+  education2: 2021-present Master candidate, Yunnan University
+  education3: 2017-2021 B.S., Qujing Normal University
 
 - name: Yumeng Yang
   photo: YumengYang.jpeg
+  info: Ph.D student 
+  email: 
+  number_educ: 3
+  education1: 2024-present Ph.D candidate, Sun Yat-sen University
+  education2: 2021-present Master candidate, Yunnan University
+  education3: 2017-2021 B.S., Hainan University
+
+- name: Meilin Mu
+  photo: MeilinMu.jpg
+  info: Ph.D student 
+  email: 
+  number_educ: 3
+  education1: 2022-present Ph.D candidate, Huazhong University of Science and Technology
+  education2: 2019-2022 Master, Ludong University
+  education3: 2015-2019 B.S., Southwest Minzu University
+
+- name: Wenjia Li
+  photo: WenjiaLi.jpg
+  info: Ph.D student
+  email: 
+  number_educ: 3
+  education1: 2022-present Ph.D candidate, Guangzhou Medical University
+  education2: 2015-2018 Master, CAS-Center for Excellence in Molecular Plant Science, Chinese Academy of Sciences
+  education3: 2011-2015 B.S., Qufu Normal University
+
+- name: Lingfeng Liu
+  photo: LingfengLiu.jpg
+  info: Ph.D student
+  email: 
+  number_educ: 3
+  education1: 2023-present Ph.D candidate, Huazhong University of Science and Technology
+  education2: 2019-2022 Master, College of Biophotonics, South China Normal University
+  education3: 2015-2019 B.S., Basic Forestry & Proteomics Research Center, Fujian Agriculture and Forestry University
+  
+- name: Jingxin Liu
+  photo: JingxinLiu.png
+  info: Postdoctoral Fellow
+  email: 
+  number_educ: 3
+  education1: 2019-2022 Post-doctor, The Third Affiliated Hospital of Sun Yat-sen University
+  education2: 2016-2019 Associate Research Fellow, Sun Yat-sen School of Medicine, Sun Yat-sen University 
+  education3: 2010-2016 Master & Doctor, University of Science and Technology of China  
+
+- name: Meng Xu
+  photo: MengXu.jpg
+  info: Ph.D student
+  email: 
+  number_educ: 3
+  education1: 2023-present Ph.D candidate, Guangzhou Institutes of Biomedicine and Health, Chinese Academy of Sciences
+  education2: 2020-2023 Master, Wuhan Institute of Virology, University of Chinese Academy of Sciences
+  education3: 2016-2020 B.S., Tianjin Medical University 
+
+- name: Jia Liu
+  photo: JiaLiu.jpg
+  info: Research Assistant
+  email: 
+  number_educ: 2
+  education1: 2020-2023 Master, School of Medicine, Southern University of Science and Technology
+  education2: 2016-2020 B.S., Marine College, Shandong University
+
+- name: Minyi Lv
+  photo: MinyiLV.jpg
+  info: Ph.D student
+  email: 
+  number_educ: 3
+  education1: 2024-present Ph.D candidate, Sun Yat-sen University
+  education2: 2020-2023 Master in Surgery,  Six affiliated hospital，Sun-Yat sen University
+  education3: 2014-2020 M.D.,Clinical Medical College, Guangdong Medicial University
+
+- name: Yuyan Wang
+  photo: YuyanWang.png
+  info: Postdoctoral Fellow
+  email: 
+  number_educ: 1
+  education1: 2015-2023 Master & Doctor, Dalian University of Technology
+
+- name: Xiaoran Zhang
+  photo: XiaoranZhang.jpg
+  info: Ph.D student
+  email: 
+  number_educ: 2
+  education1: 2013-2018 Master, CAS-MPG Partner Institute for Computational Biology, SIBS, CAS, Shanghai
+  education2: 2008-2013 B.S., Southwest Jiaotong University  
+
+- name: Long Zhao
+  photo: LongZhao.jpg
+  info: Ph.D student
+  email: 
+  number_educ: 3
+  education1: 2025-present Ph.D candidate, Sun Yat-sen University
+  education2: 2022-2025 Master, Nanchang University
+  education3: 2018-2022 B.S., Jinggangshan University
+
+- name: Qin Wei
+  photo: QinWei.jpg
   info: Graduate student
   email: 
   number_educ: 2
-  education1: 2021-present Master candidate, Yunnan University
-  education2: 2017-2021 B.S., Hainan University
+  education1: 2025-present M.S. candidate, Respiratory Health Research Institute, Guangzhou Medical University 
+  education2: 2019-2023 B.S., Chengdu University of Traditional Chinese Medicine  
 
-- name: Junxian He
-  photo: JunxianHe.png
-  info: intern(student)
-  email: 
-  number_educ: 2
-  education1: 2019-present Master,Sun Yat-Sen University
-  education2: 2013-2019 B.S.,Shenzhen University
 
 - name: "This could be you !"
   photo: unknown.png
