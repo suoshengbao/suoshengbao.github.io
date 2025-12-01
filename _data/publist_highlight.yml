@@ -1,3 +1,13 @@
+- title: Assessment of computational methods in predicting TCR–epitope binding recognition
+  image: dummy.png
+  description: ""
+  authors:
+    Yanping Lu^; Yuyan Wang^; Meng Xu; Bingbing Xie; Yumeng Yang; Haodong Xu#; <b>Shengbao Suo</b>#
+  link:
+    url: https://www.nature.com/articles/s41592-025-02910-0
+    display: Nature Methods, 2025
+  highlight: 0
+
 - title: Endogenous retroviruses:unveiling new targets for cancer immunotherapy
   image: dummy.png
   description: ""
@@ -41,13 +51,13 @@
     display: Nature, 2019, 572(7770):528-532
   highlight: 0
   
-- title: Revealing the critical regulators of cell identity in the mouse cell atlas
-  image: dummy.png
-  description: ""
-  authors:
-    <b>Shengbao Suo</b>; Qian Zhu; Assieh Saadatpour; Lijiang Fei; Guoji Guo; Guo-Cheng Yuan#
-  link:
-    url: https://doi.org/10.1016/j.celrep.2018.10.045
-    display: Cell Reports, 2018, 6(25):1436-1445
-  highlight: 0
+# - title: Revealing the critical regulators of cell identity in the mouse cell atlas
+#   image: dummy.png
+#   description: ""
+#   authors:
+#     <b>Shengbao Suo</b>; Qian Zhu; Assieh Saadatpour; Lijiang Fei; Guoji Guo; Guo-Cheng Yuan#
+#   link:
+#     url: https://doi.org/10.1016/j.celrep.2018.10.045
+#     display: Cell Reports, 2018, 6(25):1436-1445
+#   highlight: 0
 
