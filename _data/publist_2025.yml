@@ -1,10 +1,20 @@
+- title: Spatial and single-cell transcriptomics landscape of adenomyosis
+  image: dummy.png
+  description: ""
+  authors:
+    Xing Yang^; **Chunjie Li**^; Junxian He^; **Bingbing Xie**; Linyan Lv; Jian Xu; Yuan Lin; Chuanchuan Zhou; Manchao Li; Zhi Zeng; Jinfeng Tan; Shuqin Chen; Guizhong Cui; Guihua Liu#; **Shengbao Suo**#, Guangdun Peng#, Xiaoyan Liang#
+  link:
+    url: https://doi.org/10.1016/j.jare.2025.12.042
+    display: Journal of Advanced Research, 2025, Online ahead of print
+  highlight: 0  
+
 - title: Assessment of computational methods in predicting TCR-epitope binding recognition
   image: dummy.png
   description: ""
   authors:
     Yanping Lu^; Yuyan Wang^; Meng Xu; Bingbing Xie; Yumeng Yang; Haodong Xu#; **Shengbao Suo**#.
   link:
-    url: 10.1038/s41592-025-02910-0
+    url: https://doi.org/10.1038/s41592-025-02910-0
     display: Nature Methods, 2025, Online ahead of print
   highlight: 0  
 
@@ -12,7 +22,7 @@
   image: dummy.png
   description: ""
   authors:
-    Xinqing Lin^; Chunjie Li^; Jiaxi Deng^; Ying Wu; Bingbing Xie; Jingyi Bao; Wenwei Mo; Changhao Zhong; Haiyi Deng; Qingjun Pan; Yuan Qiu; Yuwen He; Shiyue Li; Jia Li; **Shengbao Suo**#; Chengzhi Zhou#.
+    Xinqing Lin^; Chunjie Li^; Jiaxi Deng^; Ying Wu; Bingbing Xie; Jingyi Bao; Wenwei Mo; Changhao Zhong; Haiyi Deng; Qingjun Pan; Yuan Qiu; Yuwen He; Shiyue Li; Jia Li; **Shengbao Suo**#; Chengzhi Zhou#
   link:
     url: https://doi.org/10.1038/s41467-025-66509-x
     display: Nature Communications, 2025, Online ahead of print
