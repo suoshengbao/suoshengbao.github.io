@@ -24,17 +24,7 @@
   education1: 2020-2021 Bioinformatician, Zhongshan Ophthalmic Center, Sun Yat-sen University
   # education2: 2019-2019 Visiting scholar, VIB-KU Leuven Center for Cancer Biology
   education2: 2018-2020 Postdoctoral Fellow, Zhongshan Ophthalmic Center, Sun Yat-sen University
-  education3: 2013-2018 Ph.D, Beijing Institute of Genomics, Chinese Academy of Sciences
-
-- name: Chunjie Li
-  photo: ChunjieLi.png
-  info: Assistant Investigator
-  email: 
-  number_educ: 4
-  education1: 2021-2022 Assistant Researcher, Guangzhou Women and Children's Medical Center
-  education2: 2018-2021 Postdoctoral Fellow, Guangzhou Women and Children's Medical Center, Sun Yat-sen University
-  education3: 2017-2018 Medical Science Liaison, OrigiMed Co., Ltd.
-  education4: 2014-2017 Ph.D, Graduate School of Life Sciences, Kyoto University
+  education3: 2013-2018 Ph.D, Beijing Institute of Genomics, Chinese Academy of Science
 
 - name: Yanping Lu
   photo: YanpingLu.jpeg
@@ -147,6 +137,15 @@
   number_educ: 2
   education1: 2025-present M.S. candidate, Respiratory Health Research Institute, Guangzhou Medical University 
   education2: 2019-2023 B.S., Chengdu University of Traditional Chinese Medicine  
+
+- name: Xiangyan Wu
+  photo: Xiangyan Wu.jpg
+  info: Ph.D student
+  email: 
+  number_educ: 3
+  education1: 2026-present Ph.D candidate, Sun Yat-sen University
+  education2: 2023-2026 Master, Guangdong University of Technology
+  education3: 2014-2018 B.S., Guangdong University of Technology
 
 
 - name: "This could be you !"
