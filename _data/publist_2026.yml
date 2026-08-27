@@ -1,3 +1,13 @@
+- title: Integrated inference of cellular compositions and gene expression programs by deconvolution
+  image: dummy.png
+  description: ""
+  authors:
+    Ze Zhang^; Xu Wang; Fan Hong; Pei Yu; Shengbao Suo#; Ye‑Guang Chen#.
+  link:
+    url: 10.1186/s13619-026-00299-5
+    display: Cell Regeneration, 2026 Aug 10;15(1):26
+  highlight: 0   
+
 - title: Targeting VEGF signaling and stromal remodeling enhances chemoimmunotherapy efficacy in esophageal cancer
   image: dummy.png
   description: ""
@@ -17,5 +27,4 @@
     url: https://www.nature.com/articles/s41467-026-68291-w
     display: Nature Communications, 2026 Jan 12;17(1):1572
   highlight: 0  
-
 
