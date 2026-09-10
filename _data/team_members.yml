@@ -147,6 +147,22 @@
   education2: 2023-2026 Master, Guangdong University of Technology
   education3: 2014-2018 B.S., Guangdong University of Technology
 
+- name: Chenying Sheng
+  photo: ChenyingSheng.jpg
+  info: Graduate student
+  email: 
+  number_educ: 2
+  education1: 2026-present M.S. candidate, Respiratory Health Research Institute, Guangzhou Medical University2026-present M.S. candidate, Respiratory Health Research Institute, Guangzhou Medical University
+  education2: 2021-2026 B.S., Zhejiang Chinese Medicine University Binjiang College
+ 
+- name: Zheng Gong
+  photo: GongZheng.jpg
+  info: Ph.D student
+  email: 
+  number_educ: 3
+  education1: 2026-present Ph.D candidate, ShanghaiTech University
+  education2: 2023-2026 M.S. candidate, Guangzhou Medical University
+  education3: 2019-2023 B.S., Gannan Medical University
 
 - name: "This could be you !"
   photo: unknown.png
