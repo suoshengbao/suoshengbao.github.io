@@ -1,3 +1,13 @@
+- title: Bridging model performance and clinical utility in T cell receptor-epitope binding prediction
+  image: dummy.png
+  description: ""
+  authors:
+   Yuyan Wang^; Yanping Lu^; **Shengbao Suo**#
+  link:
+    url: https://onlinelibrary.wiley.com/doi/10.1002/ctm2.70837 
+    display: Clinical   Translational Medicine, 2026 Sep;16(9):e70837
+  highlight: 0  
+
 - title: Integrated inference of cellular compositions and gene expression programs by deconvolution
   image: dummy.png
   description: ""
