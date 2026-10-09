@@ -1,18 +1,28 @@
+- title: Spatial and single- nucleus transcriptomics reveals the molecular pathology of type 2 diabetes–associated cognitive dysfunction
+  image: dummy.png
+  description: ""
+  authors:
+    Wei Wu^; Yumeng Yang^; Xixi Zhang; Baojian Liao; Siyu Kong; Bingbing Xie; Yanping Lu; Mingyue Jiang; Xiu Liang; Lei Zhang; Meiyi Zhou; Xiaojing Zhang; Ningyi Shao; Gholson J. Lyon; Yaqing Shu#; **Shengbao Suo**#; Ning Ma#. 
+  link:
+    url: https://www.pnas.org/doi/10.1073/pnas.2529793123 
+    display:PNAS, 2026 Oct 13,123(41):e2529793123
+  highlight: 0  
+
 - title: Bridging model performance and clinical utility in T cell receptor-epitope binding prediction
   image: dummy.png
   description: ""
   authors:
-   Yuyan Wang^; Yanping Lu^; **Shengbao Suo**#
+    Yuyan Wang^; Yanping Lu^; **Shengbao Suo**#
   link:
     url: https://onlinelibrary.wiley.com/doi/10.1002/ctm2.70837 
-    display: Clinical   Translational Medicine, 2026 Sep;16(9):e70837
+    display: Clinical Translational Medicine, 2026 Sep;16(9):e70837
   highlight: 0  
 
 - title: Integrated inference of cellular compositions and gene expression programs by deconvolution
   image: dummy.png
   description: ""
   authors:
-    Ze Zhang^; Xu Wang; Fan Hong; Pei Yu; Shengbao Suo#; Ye‑Guang Chen#.
+    Ze Zhang^; Xu Wang; Fan Hong; Pei Yu;**Shengbao Suo**#; Ye‑Guang Chen#.
   link:
     url: https://academic.oup.com/bib/article/26/4/bbaf314/8195344
     display: Cell Regeneration, 2026 Aug 10;15(1):26
