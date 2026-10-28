@@ -1,73 +1,30 @@
 ---
 title: "SuoLab - Home"
 layout: homelay
-excerpt: "SuoLab at GZLab."
-sitemap: false
+excerpt: "SuoLab at Guangzhou Laboratory combines single-cell and spatial multi-omics with computational biology to understand immune regulation and cancer."
 permalink: /
 ---
-
-<!-- <p>We are a young research group at the [Bioland Laboratory](https://www.grmh-gdl.cn) in the Max-Planck Center for Tissue Stem Cell Research and Regenerative Medicine.</p> -->
-<p>We are a young research group at the Guangzhou Laboratory. If you are interested in working with us, please see more information on <a href="https://suoshengbao.github.io/positions">Positions</a>. </p>
-<p>Transformative single-cell multi-omics and spatial technologies now provide an opportunity to dissect the state of individual cells at unprecedented resolution. Given the rapid development of different single-cell biotechnologies and new wave of big omics data with their own specificities in terms of complexity and information content, our aims is to use computational and theoretical approaches combined with multi-omics high-throughput sequencing data to quantitatively address the full-scale complexity of biological systems and derive novel biological insights. We are building an interdisciplinary team to tightly link computation and biological technologies, and gradually set up wet experiment systems for validating computationally inferred hypotheses. We will always be eager to seek collaborations, such as cancer immunology, within our rich scientific community to push forward our understandings of regulation mechanism and yield new therapeutic approaches for human disease treatment.</p>
- 
-
-<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
-    <!-- Menu -->
-    <ol class="carousel-indicators">
-        <li data-target="#carousel" data-slide-to="0" class="active"></li>
-        <li data-target="#carousel" data-slide-to="1"></li>
-        <li data-target="#carousel" data-slide-to="2"></li>
-        <li data-target="#carousel" data-slide-to="3"></li>
-        <li data-target="#carousel" data-slide-to="4"></li>
-    </ol>
-
-    <!-- Items -->
-    <div class="carousel-inner" markdown="0">
-        <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/homepage/Fig1.png" alt="Slide 1" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/homepage/Fig2.png" alt="Slide 2" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/homepage/Fig3.png" alt="Slide 3" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/homepage/Fig4.png" alt="Slide 4" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/homepage/Fig5.png" alt="Slide 5" />
-        </div>
-    </div> 
-  <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
-    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
-    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </a>
+<div class="home-content" markdown="0">
+<section class="overview-panel" aria-labelledby="overview-title">
+  <div class="section-heading"><h2 id="overview-title">Research overview</h2></div>
+  <p><strong>Research focus.</strong> We investigate how immune cell states and tissue environments shape responses to cancer immunotherapy, including the balance between antitumor immunity and immune-related adverse effects. We also study changes in the immune microenvironment during early tumor evolution, with particular interest in T-cell regulation and interactions among different cell populations.</p>
+  <p><strong>Methods.</strong> We combine <strong>single-cell and spatial multi-omics</strong> with computational modeling to connect molecular profiles with their tissue context. Our work develops approaches for spatial mapping, regulatory network analysis, causal inference and interpretable machine learning. Experimental systems help validate computationally inferred hypotheses, linking method development to biological discovery.</p>
+</section>
+{% assign snapshots = site.data.research_snapshots %}
+{% assign snapshots_count = snapshots | size %}
+{% if snapshots_count > 0 %}
+<section class="research-showcase" aria-label="Research snapshots">
+  <div class="section-heading compact"><h2>Research snapshots</h2></div>
+  <div id="carousel" class="carousel slide" data-interval="5000" role="region" aria-roledescription="carousel" aria-label="Research figures" tabindex="0">
+    <div class="carousel-inner" aria-live="off">
+      {% for snapshot in snapshots %}
+      {% assign snapshot_path = '/images/homepage/' | append: snapshot.image | relative_url | uri_escape %}
+      <div class="item{% if forloop.first %} active{% endif %}" role="group" aria-roledescription="slide" aria-label="{{ forloop.index }} of {{ snapshots_count }}"{% unless forloop.first %} hidden{% endunless %}><a href="{{ snapshot_path | escape }}"><img src="{{ snapshot_path | escape }}" alt="{{ snapshot.alt | escape }}"{% unless forloop.first %} loading="lazy"{% endunless %}></a></div>
+      {% endfor %}
+    </div>
+    <div class="carousel-toolbar"><span>Click a figure to enlarge</span>{% if snapshots_count > 1 %}<div class="carousel-buttons"><button type="button" data-carousel-toggle aria-label="Pause slideshow">Pause</button><button type="button" data-carousel="prev" aria-label="Previous research figure">←</button><span class="carousel-count" aria-live="off">1 / {{ snapshots_count }}</span><button type="button" data-carousel="next" aria-label="Next research figure">→</button></div>{% endif %}</div>
+  </div>
+</section>
+{% endif %}
+<section class="join-callout"><h2>Open positions</h2><p>We welcome applications from students, postdoctoral researchers and research assistants interested in computational biology and immunology. Please see our <a href="{{ '/positions/' | relative_url }}">positions page</a> for details.</p></section>
 </div>
-
-
-<!-- Advances in single-cell technologies, especially for single-cell RNA sequencing (scRNA-seq), are providing exciting opportunities for describing the characteristics and heterogeneity of individual cells and benefiting the study of cell identity, fate and function with unprecedented resolution (Stuart and Satija, 2019). Recent studies have also shown that identical cell types may have tissue-specific expression patterns, indicating that tissue environment plays an important role in mediating cell states. The loss of spatial information during the process of tissue dissociation and cell isolation will limit our understanding of cellular interactions and organization in the microenvironment. Recently, a number of methods providing spatially resolved transcriptomic profiling have been introduced and are complementary to scRNA-seq (Asp et al., 2020). Some studies, for example, from development, stem cell, cancer and immunology fields, clearly highlight the power of scRNA-seq and spatial transcriptomes for parsing the spatial context in high resolution (Baccin et al., 2020; Moncada et al., 2020). However, due to technical limitations and complexity of data structure, there are some unique computational challenges need to be addressed for advancing the field of single-cell omics 
-(see [Research](research)) -->
-
-<!-- We are located at XX, the XX ([XX](https://www.)). We exchange ideas and work with our neighbors from [XX](http://www.), as well as with the colleagues from [XX](https://www.). -->
-
- **We are  looking for passionate undergraduate/graduate student and postdoc to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/positions) **!**
- 
- 
-<!-- We are grateful for funding from [XX](www.) and [XX](https://www.). -->
-
-<!-- <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Nanofront.jpg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
-</figure> -->
-
-
-
-
-

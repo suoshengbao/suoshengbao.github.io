@@ -1,37 +1,23 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
+# SuoLab — Jekyll configuration
 title: The Suo Lab
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: ""
-url: ""
-
+email: suo_shengbao@gzlab.ac.cn
+description: SuoLab at Guangzhou Laboratory combines single-cell and spatial multi-omics with computational
+  biology to understand immune regulation and cancer.
+baseurl: ''
+url: https://suoshengbao.github.io
 include:
-  - .htaccess
-  - _pages
-
+- _pages
 sass:
   sass_dir: _sass
-
-# Conversion
+  cache: false
 markdown: kramdown
 highlighter: rouge
 lsi: false
-excerpt_separator: "\n\n"
+excerpt_separator: '
+
+
+  '
 incremental: false
-
-
-
-# Markdown Processing
 kramdown:
   input: GFM
   hard_wrap: false
@@ -41,5 +27,13 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
-  parse_block_html: true # default for kramdown is false. This will enable using Markdown links
-
+  parse_block_html: true
+exclude:
+- Gemfile
+- Gemfile.lock
+- README.md
+- vendor
+- work
+- outputs
+- .sass-cache
+- .jekyll-cache

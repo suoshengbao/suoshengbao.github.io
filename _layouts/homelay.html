@@ -1,12 +1,11 @@
 ---
 layout: default
 ---
-
-  <div id="homeid" class="col-sm-8">
-        <h2>Welcome to Suo Lab</h2>
-
-	{{ content }}
-  </div>
-  <div id="newsid" class="col-sm-4" >
-	{% include news.html %}
-  </div>
+<header class="home-heading col-sm-12">
+  <h1>Welcome to Suo Lab</h1>
+  <p>Guangzhou Laboratory · Integrating computational biology, artificial intelligence and experimental research</p>
+</header>
+<div class="home-columns">
+  <div id="homeid" class="col-sm-8">{{ content }}</div>
+  <aside id="newsid" class="col-sm-4" aria-labelledby="news-title">{% include news.html %}</aside>
+</div>

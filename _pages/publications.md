@@ -1,126 +1,29 @@
 ---
 title: "SuoLab - Publications"
 layout: gridlay
-excerpt: "SuoLab -- Publications."
-sitemap: false
+excerpt: "Selected publications and the publication list of SuoLab at Guangzhou Laboratory."
 permalink: /publications/
 ---
-
-
-## Publications
-(^ co-first author, # corresponding author)
-
-### Highlights
-
-<!-- (For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.com/citations?user=MgVR3TwAAAAJ&hl=en))
-
-{% assign number_printed = 0 %}
-{% for publi in site.data.publist %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if publi.highlight == 1 %}
-
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
-
-<div class="col-sm-6 clearfix">
- <div class="well">
-  <pubtit>{{ publi.title }}</pubtit>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
-  <p>{{ publi.description }}</p>
-  <p>{{ publi.authors }}</p>
-  <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
-  <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
-  <p> {{ publi.news2 }}</p>
- </div>
+<div class="page-content" markdown="0">
+<div class="page-heading"><h1>Publications</h1></div>
+<p class="publication-legend"><span>^ Co-first author</span><span># Corresponding author</span></p>
+{% capture publication_dataset_names %}{% for dataset in site.data %}{% assign dataset_name = dataset[0] %}{% assign dataset_prefix = dataset_name | slice: 0, 8 %}{% if dataset_prefix == 'publist_' and dataset_name != 'publist_highlight' %}{{ dataset_name }}|{% endif %}{% endfor %}{% endcapture %}
+{% assign publication_dataset_names = publication_dataset_names | split: '|' | sort | reverse %}
+<nav class="section-nav publication-nav" aria-label="Publication years">
+  <a href="#highlights">Highlights</a>
+  {% for dataset_name in publication_dataset_names %}
+    {% assign dataset_prefix = dataset_name | slice: 0, 8 %}
+    {% if dataset_prefix == 'publist_' and dataset_name != 'publist_highlight' %}
+      {% assign year = dataset_name | remove_first: 'publist_' %}<a href="#year-{{ year }}">{{ year | replace: '-', '–' }}</a>
+    {% endif %}
+  {% endfor %}
+</nav>
+<section id="highlights" class="publication-highlights"><div class="section-heading"><h2>Highlights</h2></div><div class="highlights-grid">{% for publi in site.data.publist_highlight %}{% include publication-entry.html featured=true %}{% endfor %}</div></section>
+{% for dataset_name in publication_dataset_names %}
+  {% assign dataset_prefix = dataset_name | slice: 0, 8 %}
+  {% if dataset_prefix == 'publist_' and dataset_name != 'publist_highlight' %}
+    {% assign year = dataset_name | remove_first: 'publist_' %}
+    <section id="year-{{ year }}" class="publication-year"><h2>{{ year | replace: '-', '–' }}</h2>{% for publi in site.data[dataset_name] %}{% include publication-entry.html %}{% endfor %}</section>
+  {% endif %}
+{% endfor %}
 </div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-{% endif %}
-{% endfor %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
- -->
-<!-- <p> &nbsp; </p> -->
-
-
-{% for publi in site.data.publist_highlight %}
-
-  <b>{{ publi.title }}</b> <br />
-  {{ publi.authors }} <br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
-
-{% endfor %}
-
-### 2026
-
-{% for publi in site.data.publist_2026 %}
-
-  <b>{{ publi.title }}</b> <br />
-  {{ publi.authors }} <br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
-
-{% endfor %}
-
-### 2025
-
-{% for publi in site.data.publist_2025 %}
-
-  <b>{{ publi.title }}</b> <br />
-  {{ publi.authors }} <br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
-
-{% endfor %}
-
-### 2024
-
-{% for publi in site.data.publist_2024 %}
-
-  <b>{{ publi.title }}</b> <br />
-  {{ publi.authors }} <br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
-
-{% endfor %}
-
-### 2023
-
-{% for publi in site.data.publist_2023 %}
-
-  <b>{{ publi.title }}</b> <br />
-  {{ publi.authors }} <br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
-
-{% endfor %}
-
-### 2022
-
-{% for publi in site.data.publist_2022 %}
-
-  <b>{{ publi.title }}</b> <br />
-  {{ publi.authors }} <br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
-
-{% endfor %}
-
-### 2021-2011
-
-{% for publi in site.data.publist_2021-2011 %}
-
-  <b>{{ publi.title }}</b> <br />
-  {{ publi.authors }} <br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
-
-{% endfor %}
-
-<!-- ### Full List
-
-{% for publi in site.data.publist %}
-
-  <b>{{ publi.title }}</b> <br />
-  {{ publi.authors }} <br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
-
-{% endfor %}
-
- -->

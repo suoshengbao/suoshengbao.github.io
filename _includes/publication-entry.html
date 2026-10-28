@@ -1,0 +1,5 @@
+<article class="publication{% if include.featured %} publication-featured{% endif %}">
+  <h3><a href="{{ publi.link.url | escape }}">{{ publi.title }}</a></h3>
+  <div class="publication-authors">{{ publi.authors | markdownify }}</div>
+  <a class="publication-journal" href="{{ publi.link.url | escape }}">{{ publi.link.display }}</a>
+</article>

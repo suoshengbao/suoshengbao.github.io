@@ -1,0 +1,11 @@
+# Put image files in images/homepage/; entries appear in the order below.
+- image: "Fig1.png"
+  alt: "Single-cell analysis and immune mechanisms in immunotherapy-associated colitis"
+- image: "Fig2.png"
+  alt: "Spatial transcriptomics and regulatory networks during mouse gastrulation"
+- image: "Fig3.png"
+  alt: "Mouse Cell Atlas analysis and cell-type-specific regulatory networks"
+- image: "Fig4.png"
+  alt: "Computational prediction of protein acetylation and phosphorylation sites"
+- image: "Fig5.png"
+  alt: "STcomm and CMAP methods for cell interactions and spatial mapping"

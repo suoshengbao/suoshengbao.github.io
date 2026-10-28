@@ -1,45 +1,14 @@
 ---
-title: "SuoLab - Positions"
+title: "SuoLab - Open Positions"
 layout: positions
-excerpt: "Openings"
-sitemap: false
-permalink: /positions
+excerpt: "Join SuoLab at Guangzhou Laboratory: opportunities for postdoctoral researchers, research assistants and graduate students."
+permalink: /positions/
 ---
-
-## Open positions
-
-<p>Our lab mainly use and develop computational and theoretical approaches based on multi-omics high-throughput sequencing data, but also establish wet-lab experiments if needed, to systematically understand regulation mechanisms in single-cell and spatial level, with focus on questions in immunology. </p>
-<p>We are always looking for creative, energetic and collaborative **student** and **postdoc** to join our interdisciplinary team!</p>
-
-
-
-### Postdoc
-<p>The candidates will have (or about to have) a Ph.D. in computational biology/bioinformatics/computer science/statistics or other quantitative fields, as well as excellent programming and communication skills. Substantial experience in analysis of high-throughput sequencing data is highly desirable.</p>
-
-<p>Candidates with a Ph.D. degree in bioinformatics, computational science, compulational biology, immunology (etc.) with substantial experience and interest in quantitative fields/programming are also welcomed to apply.</p>
-
-<p>The candidates would have ability to develop independent research programs/projects</p>
-
-<p>The successful candidates will join a vibrant scientific environment devoted to basic science aiming at integrating research activities among partner institutes and conduct interdisciplinary research to address high-priority projects through the combination of complementary knowledge, methods and techniques.</p>
-
-<p>If you are interested in joining us, please send us an email along with a brief cover letter, a detailed CV and at least two recommendation letters. Please indicate “Application Postdoc (Your name)” in the email subject.</p>
-
-
-### Research Assistant 
-<p>The candidates would have a Bachlor/Master degree in biology and related areas, be familar with basic biology and capable of dealing with lab start-up affairs, candidates with programming background are strongly preferred.</p>
-
-<p>The candidates would have great communication skills and English writing skills.</p>
-
-<p>If you are interested in joining us, please send us an email along with a brief cover letter and a detailed CV . Please indicate “Application Research Assistant (Your name)” in the email subject.</p>
-
-### Graduate Student
-<p>The candidates would be better to have a Bachlor or Master degree in biology, immunology, mathematics, computational science related areas, be familar with basic science, candidates with programming background are strongly preferred.</p>
-<p>The candidates would have great communication skills and English writing skills.</p>
-
-<p>If you are interested in joining us, please send us an email along with a brief cover letter and a detailed CV . Please indicate “Application Research Assistant (Your name)” in the email subject.</p>
-&nbsp;
-&nbsp;
-
-<!-- <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="95%">
-</figure> -->
+<div class="page-content" markdown="0">
+<div class="page-heading"><h1>Open positions</h1><p>We welcome creative, energetic and collaborative researchers to our interdisciplinary team.</p></div>
+<p class="section-intro">We develop computational and theoretical approaches for single-cell and spatial multi-omics, with a focus on immune regulation. We also establish wet-lab experiments to validate computational hypotheses.</p>
+<nav class="section-nav" aria-label="Open positions"><a href="#postdoc">Postdoc</a><a href="#research-assistant">Research assistant</a><a href="#graduate-student">Graduate student</a></nav>
+<section id="postdoc" class="position-card"><p class="eyebrow">01 / Postdoctoral research</p><h2>Postdoc</h2><p>Candidates should hold, or be about to receive, a Ph.D. in computational biology, bioinformatics, computer science, statistics, immunology or a related field. Excellent programming and communication skills are expected; substantial experience with high-throughput sequencing data is highly desirable.</p><p>Applicants should be interested in quantitative research and able to develop independent research projects. The successful candidate will join an interdisciplinary scientific environment linking computational and experimental approaches.</p><h3>How to apply</h3><p>Please email a brief cover letter, a detailed CV and at least two recommendation letters.</p><p class="email-subject"><span>Email subject</span> Application Postdoc (Your name)</p></section>
+<section id="research-assistant" class="position-card"><p class="eyebrow">02 / Research support</p><h2>Research Assistant</h2><p>Candidates should hold a bachelor's or master's degree in biology or a related field, be familiar with basic biological research and be able to support laboratory operations. A programming background is strongly preferred.</p><p>Strong communication and English writing skills are expected.</p><h3>How to apply</h3><p>Please email a brief cover letter and a detailed CV.</p><p class="email-subject"><span>Email subject</span> Application Research Assistant (Your name)</p></section>
+<section id="graduate-student" class="position-card"><p class="eyebrow">03 / Graduate research</p><h2>Graduate Student</h2><p>Applicants should have a bachelor's or master's degree in biology, immunology, mathematics, computational science or a related field, and a strong foundation in basic science. A programming background is strongly preferred.</p><p>Strong communication and English writing skills are expected.</p><h3>How to apply</h3><p>Please email a brief cover letter and a detailed CV.</p><p class="email-subject"><span>Email subject</span> Application Graduate Student (Your name)</p></section>
+</div>

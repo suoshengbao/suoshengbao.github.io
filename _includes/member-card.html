@@ -1,0 +1,8 @@
+<article class="member-card{% if include.alumni %} alumni-card{% endif %}"{% if member.info == 'Principal Investigator' %} id="principal-investigator"{% endif %}>
+  {% if member.photo %}<img src="{{ include.folder | append: member.photo | relative_url | uri_escape }}" alt="{{ member.name | escape }}" width="96" height="116" loading="lazy">{% endif %}
+  <div class="member-content">
+    <h3>{{ member.name }}</h3>
+    <p class="member-role">{{ member.info | markdownify | remove: '<p>' | remove: '</p>' }}</p>
+    {% if member.number_educ > 0 %}<ul>{% for n in (1..member.number_educ) %}{% assign key = 'education' | append: n %}{% if member[key] %}<li>{{ member[key] }}</li>{% endif %}{% endfor %}</ul>{% endif %}
+  </div>
+</article>
